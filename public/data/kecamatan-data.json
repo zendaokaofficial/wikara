@@ -1,0 +1,4156 @@
+[
+  {
+    "id": "5102010",
+    "name": "SELEMADEG",
+    "desa": [
+      {
+        "id": "5102010002",
+        "name": "ANTAP",
+        "sls": [
+          {
+            "id": "51020100020001",
+            "name": "BANJAR ANTAP DAJAN TELABAH"
+          },
+          {
+            "id": "51020100020002",
+            "name": "BANJAR ANTAP DAJAN SEMA"
+          },
+          {
+            "id": "51020100020003",
+            "name": "BANJAR ANTAP DELOD SEMA"
+          },
+          {
+            "id": "51020100020004",
+            "name": "BANJAR ANTAP KELOD"
+          },
+          {
+            "id": "51020100020005",
+            "name": "BANJAR SOKA KAJA"
+          },
+          {
+            "id": "51020100020006",
+            "name": "BANJAR SOKA KELOD"
+          },
+          {
+            "id": "51020100020007",
+            "name": "BANJAR PAYAN"
+          },
+          {
+            "id": "51020100020008",
+            "name": "BANJAR BATULUMBANG"
+          },
+          {
+            "id": "51020100020009",
+            "name": "BANJAR BONIAN"
+          }
+        ]
+      },
+      {
+        "id": "5102010004",
+        "name": "BAJERA",
+        "sls": [
+          {
+            "id": "51020100040001",
+            "name": "BANJAR BAJERA KAJA"
+          },
+          {
+            "id": "51020100040002",
+            "name": "BANJAR BAJERA TENGAH"
+          },
+          {
+            "id": "51020100040003",
+            "name": "BANJAR BAJERA KELOD"
+          },
+          {
+            "id": "51020100040004",
+            "name": "BANJAR BAJERA JERO"
+          },
+          {
+            "id": "51020100040005",
+            "name": "BANJAR SARASWATI"
+          },
+          {
+            "id": "51020100040006",
+            "name": "BANJAR BAJERA SARI"
+          }
+        ]
+      },
+      {
+        "id": "5102010005",
+        "name": "BEREMBENG",
+        "sls": [
+          {
+            "id": "51020100050001",
+            "name": "BANJAR BEREMBENG"
+          },
+          {
+            "id": "51020100050002",
+            "name": "BANJAR GABLOGAN"
+          },
+          {
+            "id": "51020100050003",
+            "name": "BANJAR CEKIK"
+          },
+          {
+            "id": "51020100050004",
+            "name": "BANJAR BEBALI"
+          },
+          {
+            "id": "51020100050005",
+            "name": "BANJAR BEBALI KELOD"
+          }
+        ]
+      },
+      {
+        "id": "5102010006",
+        "name": "SERAMPINGAN",
+        "sls": [
+          {
+            "id": "51020100060001",
+            "name": "BANJAR MUNGGU JEROAN"
+          },
+          {
+            "id": "51020100060002",
+            "name": "BANJAR BALE AGUNG-KABA KABA"
+          },
+          {
+            "id": "51020100060003",
+            "name": "BANJAR DELOD SEMA CEMAGI"
+          },
+          {
+            "id": "51020100060004",
+            "name": "BANJAR JEMBERANA"
+          },
+          {
+            "id": "51020100060005",
+            "name": "BANJAR WANI"
+          },
+          {
+            "id": "51020100060006",
+            "name": "BANJAR WARU"
+          }
+        ]
+      },
+      {
+        "id": "5102010014",
+        "name": "SELEMADEG",
+        "sls": [
+          {
+            "id": "51020100140001",
+            "name": "BANJAR GAMONGAN"
+          },
+          {
+            "id": "51020100140002",
+            "name": "BANJAR SINGIN"
+          },
+          {
+            "id": "51020100140003",
+            "name": "BANJAR SELEMADEG KAJA"
+          },
+          {
+            "id": "51020100140004",
+            "name": "BANJAR SELEMADEG BALE AGUNG"
+          },
+          {
+            "id": "51020100140005",
+            "name": "BANJAR SELEMADEG KELOD"
+          },
+          {
+            "id": "51020100140006",
+            "name": "BANJAR SUKAWATI"
+          },
+          {
+            "id": "51020100140007",
+            "name": "BANJAR BABAKAN"
+          }
+        ]
+      },
+      {
+        "id": "5102010015",
+        "name": "PUPUAN SAWAH",
+        "sls": [
+          {
+            "id": "51020100150001",
+            "name": "BANJAR CANGKUP"
+          },
+          {
+            "id": "51020100150002",
+            "name": "BANJAR LALENG"
+          },
+          {
+            "id": "51020100150003",
+            "name": "BANJAR PUPUAN SAWAH"
+          },
+          {
+            "id": "51020100150004",
+            "name": "BANJAR KIKIAN"
+          }
+        ]
+      },
+      {
+        "id": "5102010018",
+        "name": "WANAGIRI",
+        "sls": [
+          {
+            "id": "51020100180001",
+            "name": "BANJAR SAWAH"
+          },
+          {
+            "id": "51020100180002",
+            "name": "BANJAR BABAKAN"
+          },
+          {
+            "id": "51020100180003",
+            "name": "BANJAR PAJAHAN"
+          },
+          {
+            "id": "51020100180004",
+            "name": "BANJAR WANAGIRI"
+          },
+          {
+            "id": "51020100180005",
+            "name": "BANJAR SARINBUANA"
+          },
+          {
+            "id": "51020100180006",
+            "name": "BANJAR BIYAHAN"
+          }
+        ]
+      },
+      {
+        "id": "5102010024",
+        "name": "WANAGIRI KAUH",
+        "sls": [
+          {
+            "id": "51020100240001",
+            "name": "BANJAR KEBON ANYAR"
+          },
+          {
+            "id": "51020100240002",
+            "name": "BANJAR KEBON CEPAKA"
+          },
+          {
+            "id": "51020100240003",
+            "name": "BANJAR KEBON TUMPALAN"
+          },
+          {
+            "id": "51020100240004",
+            "name": "BANJAR MENDEK"
+          },
+          {
+            "id": "51020100240005",
+            "name": "BANJAR KERTA"
+          },
+          {
+            "id": "51020100240006",
+            "name": "BANJAR KEBON BANTIRAN"
+          }
+        ]
+      },
+      {
+        "id": "5102010025",
+        "name": "MANIKYANG",
+        "sls": [
+          {
+            "id": "51020100250001",
+            "name": "BANJAR MANIKYANG"
+          },
+          {
+            "id": "51020100250002",
+            "name": "BANJAR CEPAKA"
+          },
+          {
+            "id": "51020100250003",
+            "name": "BANJAR APIT YEH"
+          },
+          {
+            "id": "51020100250004",
+            "name": "BANJAR GUNIANG"
+          }
+        ]
+      },
+      {
+        "id": "5102010026",
+        "name": "BAJERA UTARA",
+        "sls": [
+          {
+            "id": "51020100260001",
+            "name": "BANJAR CIBUKAN"
+          },
+          {
+            "id": "51020100260002",
+            "name": "BANJAR TAMAN YOGA"
+          },
+          {
+            "id": "51020100260003",
+            "name": "BANJAR MENUNGUL"
+          },
+          {
+            "id": "51020100260004",
+            "name": "BANJAR MUNDUK"
+          },
+          {
+            "id": "51020100260005",
+            "name": "BANJAR LENGANAN"
+          },
+          {
+            "id": "51020100260006",
+            "name": "BANJAR KEBON"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5102011",
+    "name": "SELEMADEG TIMUR",
+    "desa": [
+      {
+        "id": "5102011001",
+        "name": "TEGAL MENGKEB",
+        "sls": [
+          {
+            "id": "51020110010001",
+            "name": "BANJAR KELECUNG KELOD"
+          },
+          {
+            "id": "51020110010002",
+            "name": "BANJAR KELECUNG KAJA"
+          },
+          {
+            "id": "51020110010003",
+            "name": "BANJAR ALAS"
+          },
+          {
+            "id": "51020110010004",
+            "name": "BANJAR MUNDUK ULAN"
+          },
+          {
+            "id": "51020110010005",
+            "name": "BANJAR BERANJINGAN"
+          },
+          {
+            "id": "51020110010006",
+            "name": "BANJAR BONGAN"
+          },
+          {
+            "id": "51020110010007",
+            "name": "BANJAR TEGALMENGKEB KAJA"
+          },
+          {
+            "id": "51020110010008",
+            "name": "BANJAR TEGALMENGKEB TENGAH"
+          },
+          {
+            "id": "51020110010009",
+            "name": "BANJAR TEGALMENGKEB KELOD"
+          }
+        ]
+      },
+      {
+        "id": "5102011002",
+        "name": "BERABAN",
+        "sls": [
+          {
+            "id": "51020110020001",
+            "name": "BANJAR TEGES"
+          },
+          {
+            "id": "51020110020002",
+            "name": "BANJAR GEROMBONG"
+          },
+          {
+            "id": "51020110020003",
+            "name": "BANJAR BERABAN KANGIN"
+          },
+          {
+            "id": "51020110020004",
+            "name": "BANJAR BERABAN KAUH"
+          },
+          {
+            "id": "51020110020005",
+            "name": "BANJAR PONDOK"
+          }
+        ]
+      },
+      {
+        "id": "5102011003",
+        "name": "TANGGUNTITI",
+        "sls": [
+          {
+            "id": "51020110030001",
+            "name": "BANJAR BATAN BUAH"
+          },
+          {
+            "id": "51020110030002",
+            "name": "BANJAR TEMUKU AYA"
+          },
+          {
+            "id": "51020110030003",
+            "name": "BANJAR PONDOK MEKAR"
+          },
+          {
+            "id": "51020110030004",
+            "name": "BANJAR KEBON"
+          },
+          {
+            "id": "51020110030005",
+            "name": "BANJAR NYAMPUAN"
+          },
+          {
+            "id": "51020110030006",
+            "name": "BANJAR TANGGUNTITI"
+          },
+          {
+            "id": "51020110030007",
+            "name": "BANJAR JAKA TEBEL"
+          }
+        ]
+      },
+      {
+        "id": "5102011004",
+        "name": "MAMBANG",
+        "sls": [
+          {
+            "id": "51020110040001",
+            "name": "BANJAR DUKUH PULU KAJA"
+          },
+          {
+            "id": "51020110040002",
+            "name": "BANJAR DUKUH PULU TENGAH"
+          },
+          {
+            "id": "51020110040003",
+            "name": "BANJAR DUKUH PULU KELOD"
+          },
+          {
+            "id": "51020110040004",
+            "name": "BANJAR BABAKAN"
+          },
+          {
+            "id": "51020110040005",
+            "name": "BANJAR ALAS"
+          },
+          {
+            "id": "51020110040006",
+            "name": "BANJAR MAMBANG GEDE"
+          },
+          {
+            "id": "51020110040007",
+            "name": "BANJAR MAMBANG TENGAH"
+          },
+          {
+            "id": "51020110040008",
+            "name": "BANJAR MAMBANG KAJA"
+          },
+          {
+            "id": "51020110040009",
+            "name": "BANJAR MAMBANG CELUK KAJA"
+          },
+          {
+            "id": "51020110040010",
+            "name": "BANJAR MAMBANG CELUK KELOD"
+          },
+          {
+            "id": "51020110040011",
+            "name": "BANJAR SAMBAT SEE"
+          }
+        ]
+      },
+      {
+        "id": "5102011005",
+        "name": "BANTAS",
+        "sls": [
+          {
+            "id": "51020110050001",
+            "name": "BANJAR BUNUT PUHUN"
+          },
+          {
+            "id": "51020110050002",
+            "name": "BANJAR GELOGOR"
+          },
+          {
+            "id": "51020110050003",
+            "name": "BANJAR BANTAS TENGAH KAJA"
+          },
+          {
+            "id": "51020110050004",
+            "name": "BANJAR BANTAS TENGAH KELOD"
+          },
+          {
+            "id": "51020110050005",
+            "name": "BANJAR BALE AGUNG"
+          },
+          {
+            "id": "51020110050006",
+            "name": "BANJAR PUCUK"
+          }
+        ]
+      },
+      {
+        "id": "5102011006",
+        "name": "MEGATI",
+        "sls": [
+          {
+            "id": "51020110060001",
+            "name": "BANJAR SERAMPINGAN KELOD"
+          },
+          {
+            "id": "51020110060002",
+            "name": "BANJAR SERAMPINGAN KAJA"
+          },
+          {
+            "id": "51020110060003",
+            "name": "BANJAR MEGATI KELOD"
+          },
+          {
+            "id": "51020110060004",
+            "name": "BANJAR MEGATI KAJA"
+          },
+          {
+            "id": "51020110060005",
+            "name": "BANJAR JELIJIH TEGEH"
+          },
+          {
+            "id": "51020110060006",
+            "name": "BANJAR JELIJIH LEBAH"
+          },
+          {
+            "id": "51020110060007",
+            "name": "BANJAR JELIJIH PONDOK"
+          },
+          {
+            "id": "51020110060008",
+            "name": "BANJAR SESANDAN KAUH"
+          },
+          {
+            "id": "51020110060009",
+            "name": "BANJAR SESANDAN KANGIN"
+          }
+        ]
+      },
+      {
+        "id": "5102011007",
+        "name": "GADUNGAN",
+        "sls": [
+          {
+            "id": "51020110070001",
+            "name": "BANJAR IPIL"
+          },
+          {
+            "id": "51020110070002",
+            "name": "BANJAR WANI"
+          },
+          {
+            "id": "51020110070003",
+            "name": "BANJAR GADUNGAN DESA"
+          },
+          {
+            "id": "51020110070004",
+            "name": "BANJAR TEGEH"
+          },
+          {
+            "id": "51020110070005",
+            "name": "BANJAR SWASTIKA CARIK KANGIN"
+          },
+          {
+            "id": "51020110070006",
+            "name": "BANJAR MEKAR SARI CARIK KAUH"
+          },
+          {
+            "id": "51020110070007",
+            "name": "BANJAR PONDOK KELOD"
+          },
+          {
+            "id": "51020110070008",
+            "name": "BANJAR PONDOK KAJA"
+          },
+          {
+            "id": "51020110070009",
+            "name": "BANJAR PANGKUNG LANGKUAS"
+          },
+          {
+            "id": "51020110070010",
+            "name": "BANJAR MUNDUK MALANG"
+          }
+        ]
+      },
+      {
+        "id": "5102011008",
+        "name": "GUNUNG SALAK",
+        "sls": [
+          {
+            "id": "51020110080001",
+            "name": "BANJAR GUNUNG SALAK"
+          },
+          {
+            "id": "51020110080002",
+            "name": "BANJAR BANGKIANG SIDEM"
+          },
+          {
+            "id": "51020110080003",
+            "name": "BANJAR APIT YEH"
+          },
+          {
+            "id": "51020110080004",
+            "name": "BANJAR KEMETUG DESA"
+          },
+          {
+            "id": "51020110080005",
+            "name": "BANJAR KEMETUG KANCIANA"
+          }
+        ]
+      },
+      {
+        "id": "5102011009",
+        "name": "DALANG",
+        "sls": [
+          {
+            "id": "51020110090001",
+            "name": "BANJAR GEMPINIS KAUH"
+          },
+          {
+            "id": "51020110090002",
+            "name": "BANJAR GEMPINIS KANGIN"
+          },
+          {
+            "id": "51020110090003",
+            "name": "BANJAR KETIMA"
+          },
+          {
+            "id": "51020110090004",
+            "name": "BANJAR DALANG ANYAR"
+          },
+          {
+            "id": "51020110090005",
+            "name": "BANJAR DALANG DESA"
+          },
+          {
+            "id": "51020110090006",
+            "name": "BANJAR MUNDUK MALANG"
+          }
+        ]
+      },
+      {
+        "id": "5102011010",
+        "name": "GADUNG SARI",
+        "sls": [
+          {
+            "id": "51020110100001",
+            "name": "BANJAR CEPAKA"
+          },
+          {
+            "id": "51020110100002",
+            "name": "BANJAR NYATNYATAN"
+          },
+          {
+            "id": "51020110100003",
+            "name": "BANJAR MUNDUK PAKEL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5102012",
+    "name": "SELEMADEG BARAT",
+    "desa": [
+      {
+        "id": "5102012001",
+        "name": "LALANG LINGGAH",
+        "sls": [
+          {
+            "id": "51020120010001",
+            "name": "BANJAR LALANG LINGGAH"
+          },
+          {
+            "id": "51020120010002",
+            "name": "BANJAR PENGASAHAN"
+          },
+          {
+            "id": "51020120010003",
+            "name": "BANJAR SURABERATA"
+          },
+          {
+            "id": "51020120010004",
+            "name": "BANJAR DESA ANYAR"
+          },
+          {
+            "id": "51020120010005",
+            "name": "BANJAR BANJAR KUTUH"
+          },
+          {
+            "id": "51020120010006",
+            "name": "BANJAR DAREN"
+          },
+          {
+            "id": "51020120010007",
+            "name": "BANJAR MEKAYU"
+          },
+          {
+            "id": "51020120010008",
+            "name": "BANJAR BEJA"
+          },
+          {
+            "id": "51020120010009",
+            "name": "BANJAR YEH BAKUNG"
+          },
+          {
+            "id": "51020120010010",
+            "name": "BANJAR BANGKYANG JARAN"
+          },
+          {
+            "id": "51020120010011",
+            "name": "BANJAR BUKIT TUMPENG"
+          }
+        ]
+      },
+      {
+        "id": "5102012002",
+        "name": "ANTOSARI",
+        "sls": [
+          {
+            "id": "51020120020001",
+            "name": "BANJAR PETILES"
+          },
+          {
+            "id": "51020120020002",
+            "name": "BANJAR UMASEKA"
+          },
+          {
+            "id": "51020120020003",
+            "name": "BANJAR GULINGAN"
+          },
+          {
+            "id": "51020120020004",
+            "name": "BANJAR DANGIN PANGKUNG"
+          },
+          {
+            "id": "51020120020005",
+            "name": "BANJAR TENGAH"
+          },
+          {
+            "id": "51020120020006",
+            "name": "BANJAR DELOD RURUNG"
+          },
+          {
+            "id": "51020120020007",
+            "name": "BANJAR BADE GEDE"
+          }
+        ]
+      },
+      {
+        "id": "5102012003",
+        "name": "TIYING GADING",
+        "sls": [
+          {
+            "id": "51020120030001",
+            "name": "BANJAR AMPADAN"
+          },
+          {
+            "id": "51020120030002",
+            "name": "BANJAR TIYING GADING"
+          },
+          {
+            "id": "51020120030003",
+            "name": "BANJAR DUKUH"
+          },
+          {
+            "id": "51020120030004",
+            "name": "BANJAR BANJAR ANYAR"
+          },
+          {
+            "id": "51020120030005",
+            "name": "BANJAR ANTAGANA KELOD"
+          },
+          {
+            "id": "51020120030006",
+            "name": "BANJAR ANTAGANA KAJA"
+          }
+        ]
+      },
+      {
+        "id": "5102012004",
+        "name": "LUMBUNG",
+        "sls": [
+          {
+            "id": "51020120040001",
+            "name": "BANJAR DAJAN SEMA"
+          },
+          {
+            "id": "51020120040002",
+            "name": "BANJAR DELOD SEMA"
+          },
+          {
+            "id": "51020120040003",
+            "name": "BANJAR ANOM"
+          },
+          {
+            "id": "51020120040004",
+            "name": "BANJAR SEMBUNG"
+          },
+          {
+            "id": "51020120040005",
+            "name": "BANJAR CEPAKA"
+          },
+          {
+            "id": "51020120040006",
+            "name": "BANJAR PENGREREGAN KAJA"
+          },
+          {
+            "id": "51020120040007",
+            "name": "BANJAR PENGREREGAN TENGAH"
+          },
+          {
+            "id": "51020120040008",
+            "name": "BANJAR PENGREREGAN KELOD"
+          }
+        ]
+      },
+      {
+        "id": "5102012005",
+        "name": "LUMBUNG KAUH",
+        "sls": [
+          {
+            "id": "51020120050001",
+            "name": "BANJAR NAGASARI"
+          },
+          {
+            "id": "51020120050002",
+            "name": "BANJAR DAUH SIYONG"
+          },
+          {
+            "id": "51020120050003",
+            "name": "BANJAR TEGAL KONTANG"
+          },
+          {
+            "id": "51020120050004",
+            "name": "BANJAR YEH SILAH"
+          },
+          {
+            "id": "51020120050005",
+            "name": "BANJAR DELOD CEKING"
+          }
+        ]
+      },
+      {
+        "id": "5102012006",
+        "name": "MUNDEH",
+        "sls": [
+          {
+            "id": "51020120060001",
+            "name": "BANJAR YEH KAYU"
+          },
+          {
+            "id": "51020120060002",
+            "name": "BANJAR PANCORAN KELOD"
+          },
+          {
+            "id": "51020120060003",
+            "name": "BANJAR PANCORAN"
+          },
+          {
+            "id": "51020120060004",
+            "name": "BANJAR NYUH GADING"
+          },
+          {
+            "id": "51020120060005",
+            "name": "BANJAR PENGEDAN"
+          },
+          {
+            "id": "51020120060006",
+            "name": "BANJAR BANGAL"
+          },
+          {
+            "id": "51020120060007",
+            "name": "BANJAR AUMAN DELOD SEMA"
+          },
+          {
+            "id": "51020120060008",
+            "name": "BANJAR AUMAN DAJAN SEMA"
+          }
+        ]
+      },
+      {
+        "id": "5102012007",
+        "name": "MUNDEH KANGIN",
+        "sls": [
+          {
+            "id": "51020120070001",
+            "name": "BANJAR MUNDEH KANGIN"
+          },
+          {
+            "id": "51020120070002",
+            "name": "BANJAR MUNDEH KAWAN"
+          },
+          {
+            "id": "51020120070003",
+            "name": "BANJAR PAKUAJI"
+          },
+          {
+            "id": "51020120070004",
+            "name": "BANJAR PASUT"
+          },
+          {
+            "id": "51020120070005",
+            "name": "BANJAR CANTEL"
+          },
+          {
+            "id": "51020120070006",
+            "name": "BANJAR GELUNGGANG"
+          }
+        ]
+      },
+      {
+        "id": "5102012008",
+        "name": "ANGKAH",
+        "sls": [
+          {
+            "id": "51020120080001",
+            "name": "BANJAR MARGA TELU"
+          },
+          {
+            "id": "51020120080002",
+            "name": "BANJAR WANAYU"
+          },
+          {
+            "id": "51020120080003",
+            "name": "BANJAR SAMSAMAN KAJA"
+          },
+          {
+            "id": "51020120080004",
+            "name": "BANJAR SAMSAMAN KELOD"
+          },
+          {
+            "id": "51020120080005",
+            "name": "BANJAR ANGKAH PONDOK"
+          },
+          {
+            "id": "51020120080006",
+            "name": "BANJAR ANGKAH GEDE"
+          },
+          {
+            "id": "51020120080007",
+            "name": "BANJAR ANGKAH MUNDUK"
+          },
+          {
+            "id": "51020120080008",
+            "name": "BANJAR ANGKAH TEGEH"
+          }
+        ]
+      },
+      {
+        "id": "5102012009",
+        "name": "MUNDEH KAUH",
+        "sls": [
+          {
+            "id": "51020120090001",
+            "name": "BANJAR DAYANG"
+          },
+          {
+            "id": "51020120090002",
+            "name": "BANJAR PENATARAN"
+          },
+          {
+            "id": "51020120090003",
+            "name": "BANJAR DUKUH"
+          },
+          {
+            "id": "51020120090004",
+            "name": "BANJAR PUCAK SARI"
+          },
+          {
+            "id": "51020120090005",
+            "name": "BANJAR KEDEWATAN"
+          }
+        ]
+      },
+      {
+        "id": "5102012010",
+        "name": "SELABIH",
+        "sls": [
+          {
+            "id": "51020120100001",
+            "name": "BANJAR SELABIH WANASARI"
+          },
+          {
+            "id": "51020120100002",
+            "name": "BANJAR SELABIH TENGAH"
+          },
+          {
+            "id": "51020120100003",
+            "name": "BANJAR SELABIH PANGKUNG KUNING"
+          }
+        ]
+      },
+      {
+        "id": "5102012011",
+        "name": "BENGKEL SARI",
+        "sls": [
+          {
+            "id": "51020120110001",
+            "name": "BANJAR LABAK SUREN 1"
+          },
+          {
+            "id": "51020120110002",
+            "name": "BANJAR LABAK SUREN 2"
+          },
+          {
+            "id": "51020120110003",
+            "name": "BANJAR BENGKEL"
+          },
+          {
+            "id": "51020120110004",
+            "name": "BANJAR SEMAJA"
+          },
+          {
+            "id": "51020120110005",
+            "name": "BANJAR TIREMAN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5102020",
+    "name": "KERAMBITAN",
+    "desa": [
+      {
+        "id": "5102020001",
+        "name": "TIBUBIYU",
+        "sls": [
+          {
+            "id": "51020200010001",
+            "name": "BANJAR PASUT"
+          },
+          {
+            "id": "51020200010002",
+            "name": "BANJAR TIBUBIU KELOD"
+          },
+          {
+            "id": "51020200010003",
+            "name": "BANJAR TIBUBIU KAJA"
+          },
+          {
+            "id": "51020200010004",
+            "name": "BANJAR TEGAL TEMU KELOD"
+          },
+          {
+            "id": "51020200010005",
+            "name": "BANJAR TEGAL TEMU KAJA"
+          }
+        ]
+      },
+      {
+        "id": "5102020002",
+        "name": "KELATING",
+        "sls": [
+          {
+            "id": "51020200020001",
+            "name": "BANJAR DUKUH"
+          },
+          {
+            "id": "51020200020002",
+            "name": "BANJAR DANGIN PANGKUNG"
+          },
+          {
+            "id": "51020200020003",
+            "name": "BANJAR SANGGING"
+          },
+          {
+            "id": "51020200020004",
+            "name": "BANJAR PANDE"
+          },
+          {
+            "id": "51020200020005",
+            "name": "BANJAR DANGIN JALAN"
+          },
+          {
+            "id": "51020200020006",
+            "name": "BANJAR DAUH JALAN"
+          }
+        ]
+      },
+      {
+        "id": "5102020003",
+        "name": "PENARUKAN",
+        "sls": [
+          {
+            "id": "51020200030001",
+            "name": "BANJAR PENARUKAN BANTAS"
+          },
+          {
+            "id": "51020200030002",
+            "name": "BANJAR PENARUKAN KELOD"
+          },
+          {
+            "id": "51020200030003",
+            "name": "BANJAR PENARUKAN TENGAH KELOD"
+          },
+          {
+            "id": "51020200030004",
+            "name": "BANJAR PENARUKAN TENGAH KAJA"
+          },
+          {
+            "id": "51020200030005",
+            "name": "BANJAR PENARUKAN KAJA"
+          }
+        ]
+      },
+      {
+        "id": "5102020004",
+        "name": "BELUMBANG",
+        "sls": [
+          {
+            "id": "51020200040001",
+            "name": "BANJAR TIBUPOH"
+          },
+          {
+            "id": "51020200040002",
+            "name": "BANJAR BELONG"
+          },
+          {
+            "id": "51020200040003",
+            "name": "BANJAR YEH MALET KELOD"
+          },
+          {
+            "id": "51020200040004",
+            "name": "BANJAR YEH MALET KAJA"
+          },
+          {
+            "id": "51020200040005",
+            "name": "BANJAR BELUMBANG KELOD"
+          },
+          {
+            "id": "51020200040006",
+            "name": "BANJAR BELUMBANG TENGAH"
+          },
+          {
+            "id": "51020200040007",
+            "name": "BANJAR BELUMBANG KAJA"
+          },
+          {
+            "id": "51020200040008",
+            "name": "BANJAR LANGAN"
+          }
+        ]
+      },
+      {
+        "id": "5102020005",
+        "name": "TISTA",
+        "sls": [
+          {
+            "id": "51020200050001",
+            "name": "BANJAR DAUH PANGKUNG"
+          },
+          {
+            "id": "51020200050002",
+            "name": "BANJAR LEBAH"
+          },
+          {
+            "id": "51020200050003",
+            "name": "BANJAR DANGIN PANGKUNG"
+          },
+          {
+            "id": "51020200050004",
+            "name": "BANJAR CARIK"
+          }
+        ]
+      },
+      {
+        "id": "5102020006",
+        "name": "KERAMBITAN",
+        "sls": [
+          {
+            "id": "51020200060001",
+            "name": "BANJAR PEKANDELAN"
+          },
+          {
+            "id": "51020200060002",
+            "name": "BANJAR KEDAMPAL"
+          },
+          {
+            "id": "51020200060003",
+            "name": "BANJAR TENGAH KANGIN"
+          },
+          {
+            "id": "51020200060004",
+            "name": "BANJAR TENGAH"
+          },
+          {
+            "id": "51020200060005",
+            "name": "BANJAR TENGAH KAWAN"
+          },
+          {
+            "id": "51020200060006",
+            "name": "BANJAR WANI"
+          },
+          {
+            "id": "51020200060007",
+            "name": "BANJAR WANI KAWAN"
+          }
+        ]
+      },
+      {
+        "id": "5102020007",
+        "name": "PANGKUNG KARUNG",
+        "sls": [
+          {
+            "id": "51020200070001",
+            "name": "BANJAR SERONGGA KEMENUH"
+          },
+          {
+            "id": "51020200070002",
+            "name": "BANJAR SERONGGA GEDE"
+          },
+          {
+            "id": "51020200070003",
+            "name": "BANJAR SERONGGA PONDOK"
+          },
+          {
+            "id": "51020200070004",
+            "name": "BANJAR PANGKUNGKARUNG KANGIN"
+          },
+          {
+            "id": "51020200070005",
+            "name": "BANJAR PANGKUNGKARUNG KAWAN"
+          },
+          {
+            "id": "51020200070006",
+            "name": "BANJAR SELINGSING KELOD"
+          },
+          {
+            "id": "51020200070007",
+            "name": "BANJAR SELINGSING KAJA"
+          }
+        ]
+      },
+      {
+        "id": "5102020008",
+        "name": "KUKUH",
+        "sls": [
+          {
+            "id": "51020200080001",
+            "name": "BANJAR KUKUH KELOD"
+          },
+          {
+            "id": "51020200080002",
+            "name": "BANJAR KUKUH KANGIN"
+          },
+          {
+            "id": "51020200080003",
+            "name": "BANJAR SAMSAMAN KELOD"
+          },
+          {
+            "id": "51020200080004",
+            "name": "BANJAR SAMSAMAN ALAS"
+          },
+          {
+            "id": "51020200080005",
+            "name": "BANJAR KUKUH KAWAN"
+          }
+        ]
+      },
+      {
+        "id": "5102020009",
+        "name": "BATURITI",
+        "sls": [
+          {
+            "id": "51020200090001",
+            "name": "BANJAR MUNDUK CATU"
+          },
+          {
+            "id": "51020200090002",
+            "name": "BANJAR DUKUH GEDE"
+          },
+          {
+            "id": "51020200090003",
+            "name": "BANJAR DUKUH BELONG"
+          },
+          {
+            "id": "51020200090004",
+            "name": "BANJAR BATURITI KAJA"
+          },
+          {
+            "id": "51020200090005",
+            "name": "BANJAR BATURITI TENGAH"
+          },
+          {
+            "id": "51020200090006",
+            "name": "BANJAR BATURITI KELOD"
+          }
+        ]
+      },
+      {
+        "id": "5102020010",
+        "name": "MELILING",
+        "sls": [
+          {
+            "id": "51020200100001",
+            "name": "BANJAR JAGATAMU"
+          },
+          {
+            "id": "51020200100002",
+            "name": "BANJAR MELILING KANGIN"
+          },
+          {
+            "id": "51020200100003",
+            "name": "BANJAR MELILING KAWAN"
+          },
+          {
+            "id": "51020200100004",
+            "name": "BANJAR BANGKIANG MAYUNG"
+          }
+        ]
+      },
+      {
+        "id": "5102020011",
+        "name": "SEMBUNG GEDE",
+        "sls": [
+          {
+            "id": "51020200110001",
+            "name": "BANJAR MANDUNG"
+          },
+          {
+            "id": "51020200110002",
+            "name": "BANJAR MANDUNG KANGIN"
+          },
+          {
+            "id": "51020200110003",
+            "name": "BANJAR SEMBUNG GEDE KELOD"
+          },
+          {
+            "id": "51020200110004",
+            "name": "BANJAR SEMBUNG MERANGGI"
+          },
+          {
+            "id": "51020200110005",
+            "name": "BANJAR SEMBUNG GEDE"
+          },
+          {
+            "id": "51020200110006",
+            "name": "BANJAR SEMBUNG KUMPI"
+          },
+          {
+            "id": "51020200110007",
+            "name": "BANJAR BATUAJI KAWAN KELOD"
+          },
+          {
+            "id": "51020200110008",
+            "name": "BANJAR BATUAJI KAWAN KAJA"
+          },
+          {
+            "id": "51020200110009",
+            "name": "BANJAR PAYUK BANGKAH"
+          },
+          {
+            "id": "51020200110010",
+            "name": "BANJAR SARASIDI"
+          }
+        ]
+      },
+      {
+        "id": "5102020012",
+        "name": "SAMSAM",
+        "sls": [
+          {
+            "id": "51020200120001",
+            "name": "BANJAR LUMAJANG"
+          },
+          {
+            "id": "51020200120002",
+            "name": "BANJAR SAMSAM II"
+          },
+          {
+            "id": "51020200120003",
+            "name": "BANJAR SAMSAM I"
+          },
+          {
+            "id": "51020200120004",
+            "name": "BANJAR PENYALIN"
+          },
+          {
+            "id": "51020200120005",
+            "name": "BANJAR KUTUH KELOD"
+          },
+          {
+            "id": "51020200120006",
+            "name": "BANJAR KUTUH KAJA"
+          }
+        ]
+      },
+      {
+        "id": "5102020013",
+        "name": "BATUAJI",
+        "sls": [
+          {
+            "id": "51020200130001",
+            "name": "BANJAR PELEM GEDE"
+          },
+          {
+            "id": "51020200130002",
+            "name": "BANJAR BATUAJI KELOD"
+          },
+          {
+            "id": "51020200130003",
+            "name": "BANJAR BATUAJI TENGAH"
+          },
+          {
+            "id": "51020200130004",
+            "name": "BANJAR BATUAJI KAJA"
+          },
+          {
+            "id": "51020200130005",
+            "name": "BANJAR PENULISAN"
+          },
+          {
+            "id": "51020200130006",
+            "name": "BANJAR JANGKAHAN"
+          }
+        ]
+      },
+      {
+        "id": "5102020014",
+        "name": "KESIUT",
+        "sls": [
+          {
+            "id": "51020200140001",
+            "name": "BANJAR KESIUT KANGIN"
+          },
+          {
+            "id": "51020200140002",
+            "name": "BANJAR KESIUT TENGAH KELOD"
+          },
+          {
+            "id": "51020200140003",
+            "name": "BANJAR KESIUT TENGAH KAJA"
+          },
+          {
+            "id": "51020200140004",
+            "name": "BANJAR KESIUT KAWAN KAJA"
+          },
+          {
+            "id": "51020200140005",
+            "name": "BANJAR KESIUT KAWAN KELOD"
+          }
+        ]
+      },
+      {
+        "id": "5102020015",
+        "name": "TIMPAG",
+        "sls": [
+          {
+            "id": "51020200150001",
+            "name": "BANJAR DELOD PEKEN"
+          },
+          {
+            "id": "51020200150002",
+            "name": "BANJAR DAJAN PEKEN"
+          },
+          {
+            "id": "51020200150003",
+            "name": "BANJAR BELULUK"
+          },
+          {
+            "id": "51020200150004",
+            "name": "BANJAR SAMBIAN PONDOK"
+          },
+          {
+            "id": "51020200150005",
+            "name": "BANJAR SAMBIAN TENGAH"
+          },
+          {
+            "id": "51020200150006",
+            "name": "BANJAR TELAGA TUNJUNG"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5102030",
+    "name": "TABANAN",
+    "desa": [
+      {
+        "id": "5102030001",
+        "name": "SUDIMARA",
+        "sls": [
+          {
+            "id": "51020300010001",
+            "name": "BANJAR YEH GANGGA"
+          },
+          {
+            "id": "51020300010002",
+            "name": "BANJAR SUDIMARA KELOD"
+          },
+          {
+            "id": "51020300010003",
+            "name": "BANJAR SUDIMARA KAJA"
+          },
+          {
+            "id": "51020300010004",
+            "name": "BANJAR CENGOLO"
+          },
+          {
+            "id": "51020300010005",
+            "name": "BANJAR KALANGANYAR KANGIN"
+          },
+          {
+            "id": "51020300010006",
+            "name": "BANJAR KALANGANYAR"
+          },
+          {
+            "id": "51020300010007",
+            "name": "BANJAR JELAE"
+          },
+          {
+            "id": "51020300010008",
+            "name": "BANJAR SAKEH"
+          },
+          {
+            "id": "51020300010009",
+            "name": "BANJAR CELUK KANGINAN"
+          },
+          {
+            "id": "51020300010010",
+            "name": "BANJAR KATIMEMES"
+          }
+        ]
+      },
+      {
+        "id": "5102030002",
+        "name": "BONGAN",
+        "sls": [
+          {
+            "id": "51020300020001",
+            "name": "BANJAR BONGAN PALA"
+          },
+          {
+            "id": "51020300020002",
+            "name": "BANJAR BONGAN GEDE"
+          },
+          {
+            "id": "51020300020003",
+            "name": "BANJAR BONGAN TENGAH"
+          },
+          {
+            "id": "51020300020004",
+            "name": "BANJAR BONGAN LEBAH"
+          },
+          {
+            "id": "51020300020005",
+            "name": "BANJAR BONGAN JAWA KANGIN"
+          },
+          {
+            "id": "51020300020006",
+            "name": "BANJAR BONGAN JAWA KAWAN"
+          },
+          {
+            "id": "51020300020007",
+            "name": "BANJAR BONGAN KAUH KAJA"
+          },
+          {
+            "id": "51020300020008",
+            "name": "BANJAR BONGAN KAUH KELOD"
+          },
+          {
+            "id": "51020300020009",
+            "name": "BANJAR WANASARA KAJA"
+          },
+          {
+            "id": "51020300020010",
+            "name": "BANJAR WANASARA KELOD"
+          },
+          {
+            "id": "51020300020011",
+            "name": "BANJAR BEDHA"
+          }
+        ]
+      },
+      {
+        "id": "5102030003",
+        "name": "GUBUG",
+        "sls": [
+          {
+            "id": "51020300030001",
+            "name": "BANJAR TAMAN"
+          },
+          {
+            "id": "51020300030002",
+            "name": "BANJAR TONJA"
+          },
+          {
+            "id": "51020300030003",
+            "name": "BANJAR PANDE"
+          },
+          {
+            "id": "51020300030004",
+            "name": "BANJAR BATU SANGIAN"
+          },
+          {
+            "id": "51020300030005",
+            "name": "BANJAR GUBUG BALERAN"
+          },
+          {
+            "id": "51020300030006",
+            "name": "BANJAR GUBUG BELODAN"
+          },
+          {
+            "id": "51020300030007",
+            "name": "BANJAR PENGAYEHAN"
+          },
+          {
+            "id": "51020300030008",
+            "name": "BANJAR CURAH"
+          }
+        ]
+      },
+      {
+        "id": "5102030004",
+        "name": "DAUH PEKEN",
+        "sls": [
+          {
+            "id": "51020300040001",
+            "name": "BANJAR JAMBE BELODAN"
+          },
+          {
+            "id": "51020300040002",
+            "name": "BANJAR TEGAL BALERAN"
+          },
+          {
+            "id": "51020300040003",
+            "name": "BANJAR DAUH PALA"
+          },
+          {
+            "id": "51020300040004",
+            "name": "BANJAR DUKUH"
+          },
+          {
+            "id": "51020300040005",
+            "name": "BANJAR TEGAL BELODAN"
+          },
+          {
+            "id": "51020300040006",
+            "name": "BANJAR TUNGGAL SARI"
+          }
+        ]
+      },
+      {
+        "id": "5102030005",
+        "name": "DELOD PEKEN",
+        "sls": [
+          {
+            "id": "51020300050001",
+            "name": "BANJAR DELOD RURUNG"
+          },
+          {
+            "id": "51020300050002",
+            "name": "BANJAR GEROKGAK GEDE"
+          },
+          {
+            "id": "51020300050003",
+            "name": "BANJAR GEROKGAK TENGAH"
+          },
+          {
+            "id": "51020300050004",
+            "name": "BANJAR SAKENAN BELODAN"
+          },
+          {
+            "id": "51020300050005",
+            "name": "BANJAR SAKENAN BALERAN"
+          },
+          {
+            "id": "51020300050006",
+            "name": "BANJAR TAMAN SARI"
+          },
+          {
+            "id": "51020300050007",
+            "name": "BANJAR PANGKUNG"
+          }
+        ]
+      },
+      {
+        "id": "5102030006",
+        "name": "DAJAN PEKEN",
+        "sls": [
+          {
+            "id": "51020300060001",
+            "name": "BANJAR KAMASAN"
+          },
+          {
+            "id": "51020300060002",
+            "name": "BANJAR MALKANGIN"
+          },
+          {
+            "id": "51020300060003",
+            "name": "BANJAR PASEKAN BLODAN"
+          },
+          {
+            "id": "51020300060004",
+            "name": "BANJAR LEBAH"
+          },
+          {
+            "id": "51020300060005",
+            "name": "BANJAR JAMBE BALERAN"
+          },
+          {
+            "id": "51020300060006",
+            "name": "BANJAR PASEKAN BALERAN"
+          },
+          {
+            "id": "51020300060007",
+            "name": "BANJAR PANDE"
+          },
+          {
+            "id": "51020300060008",
+            "name": "BANJAR DANGIN CARIK"
+          }
+        ]
+      },
+      {
+        "id": "5102030007",
+        "name": "SUBAMIA",
+        "sls": [
+          {
+            "id": "51020300070001",
+            "name": "BANJAR SUBAMIA AMBAL AMBAL"
+          },
+          {
+            "id": "51020300070002",
+            "name": "BANJAR SUBAMIA DENCARIK"
+          },
+          {
+            "id": "51020300070003",
+            "name": "BANJAR SUBAMIA BALE AGUNG"
+          },
+          {
+            "id": "51020300070004",
+            "name": "BANJAR SUBAMIA KELONG"
+          }
+        ]
+      },
+      {
+        "id": "5102030008",
+        "name": "DENBANTAS",
+        "sls": [
+          {
+            "id": "51020300080001",
+            "name": "BANJAR DENBANTAS"
+          },
+          {
+            "id": "51020300080002",
+            "name": "BANJAR BAKISAN"
+          },
+          {
+            "id": "51020300080003",
+            "name": "BANJAR DUKUH BUAHAN"
+          },
+          {
+            "id": "51020300080004",
+            "name": "BANJAR CELAGI"
+          },
+          {
+            "id": "51020300080005",
+            "name": "BANJAR TUAKILANG BALERAN"
+          },
+          {
+            "id": "51020300080006",
+            "name": "BANJAR TUAKILANG DELODAN"
+          }
+        ]
+      },
+      {
+        "id": "5102030009",
+        "name": "BUAHAN",
+        "sls": [
+          {
+            "id": "51020300090001",
+            "name": "BANJAR BUAHAN TENGAH"
+          },
+          {
+            "id": "51020300090002",
+            "name": "BANJAR BUAHAN UTARA"
+          },
+          {
+            "id": "51020300090003",
+            "name": "BANJAR BUAHAN SELATAN"
+          }
+        ]
+      },
+      {
+        "id": "5102030010",
+        "name": "TUNJUK",
+        "sls": [
+          {
+            "id": "51020300100001",
+            "name": "BANJAR BUNGAN KAPAL"
+          },
+          {
+            "id": "51020300100002",
+            "name": "BANJAR LEGUNG"
+          },
+          {
+            "id": "51020300100003",
+            "name": "BANJAR TUNJUK KAJA"
+          },
+          {
+            "id": "51020300100004",
+            "name": "BANJAR TUNJUK TENGAH"
+          },
+          {
+            "id": "51020300100005",
+            "name": "BANJAR TUNJUK KELOD"
+          },
+          {
+            "id": "51020300100006",
+            "name": "BANJAR BENG KAJA"
+          },
+          {
+            "id": "51020300100007",
+            "name": "BANJAR BENG KELOD"
+          }
+        ]
+      },
+      {
+        "id": "5102030011",
+        "name": "WANASARI",
+        "sls": [
+          {
+            "id": "51020300110001",
+            "name": "BANJAR ABIAN LALANG"
+          },
+          {
+            "id": "51020300110002",
+            "name": "BANJAR PERIYUKTI"
+          },
+          {
+            "id": "51020300110003",
+            "name": "BANJAR WANASARI BELODAN"
+          },
+          {
+            "id": "51020300110004",
+            "name": "BANJAR WANASARI TENGAH"
+          },
+          {
+            "id": "51020300110005",
+            "name": "BANJAR WANASARI BALERAN"
+          }
+        ]
+      },
+      {
+        "id": "5102030012",
+        "name": "SESANDAN",
+        "sls": [
+          {
+            "id": "51020300120001",
+            "name": "BANJAR SANDAN PONDOK"
+          },
+          {
+            "id": "51020300120002",
+            "name": "BANJAR SANDAN TEGEH"
+          },
+          {
+            "id": "51020300120003",
+            "name": "BANJAR SANDAN DANGIN YEH"
+          },
+          {
+            "id": "51020300120004",
+            "name": "BANJAR SANDAN DAUH YEH BALERAN"
+          },
+          {
+            "id": "51020300120005",
+            "name": "BANJAR SANDAN DAUH YEH"
+          },
+          {
+            "id": "51020300120006",
+            "name": "BANJAR SANDAN LEBAH"
+          },
+          {
+            "id": "51020300120007",
+            "name": "BANJAR SEKARTAJI"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5102040",
+    "name": "KEDIRI",
+    "desa": [
+      {
+        "id": "5102040001",
+        "name": "PANGKUNG TIBAH",
+        "sls": [
+          {
+            "id": "51020400010001",
+            "name": "BANJAR PANGKUNG TIBAH BALERAN"
+          },
+          {
+            "id": "51020400010002",
+            "name": "BANJAR PANGKUNG TIBAH"
+          },
+          {
+            "id": "51020400010003",
+            "name": "BANJAR LANGUDU"
+          }
+        ]
+      },
+      {
+        "id": "5102040002",
+        "name": "BELALANG",
+        "sls": [
+          {
+            "id": "51020400020001",
+            "name": "BANJAR KEDUNGU"
+          },
+          {
+            "id": "51020400020002",
+            "name": "BANJAR DAUH RURUNG"
+          },
+          {
+            "id": "51020400020003",
+            "name": "BANJAR DANGIN JELINJING"
+          },
+          {
+            "id": "51020400020004",
+            "name": "BANJAR PACUNG"
+          },
+          {
+            "id": "51020400020005",
+            "name": "BANJAR KEBILBIL"
+          }
+        ]
+      },
+      {
+        "id": "5102040003",
+        "name": "BERABAN",
+        "sls": [
+          {
+            "id": "51020400030001",
+            "name": "BANJAR BATU GAING"
+          },
+          {
+            "id": "51020400030002",
+            "name": "BANJAR DUKUH"
+          },
+          {
+            "id": "51020400030003",
+            "name": "BANJAR NYANYI"
+          },
+          {
+            "id": "51020400030004",
+            "name": "BANJAR BATUGAING KAJA"
+          },
+          {
+            "id": "51020400030005",
+            "name": "BANJAR BERABAN"
+          },
+          {
+            "id": "51020400030006",
+            "name": "BANJAR SINJUANA"
+          },
+          {
+            "id": "51020400030007",
+            "name": "BANJAR BATAN BUAH"
+          },
+          {
+            "id": "51020400030008",
+            "name": "BANJAR BATAN BUAH KAJA"
+          },
+          {
+            "id": "51020400030009",
+            "name": "BANJAR GEGELANG"
+          },
+          {
+            "id": "51020400030010",
+            "name": "BANJAR ULUN DESA"
+          }
+        ]
+      },
+      {
+        "id": "5102040004",
+        "name": "BUWIT",
+        "sls": [
+          {
+            "id": "51020400040001",
+            "name": "BANJAR BUWIT"
+          },
+          {
+            "id": "51020400040002",
+            "name": "BANJAR DELOD SEMA"
+          },
+          {
+            "id": "51020400040003",
+            "name": "BANJAR KELAKAHAN"
+          },
+          {
+            "id": "51020400040004",
+            "name": "BANJAR DELOD UMA"
+          }
+        ]
+      },
+      {
+        "id": "5102040005",
+        "name": "CEPAKA",
+        "sls": [
+          {
+            "id": "51020400050001",
+            "name": "BANJAR BATAN DUREN"
+          },
+          {
+            "id": "51020400050002",
+            "name": "BANJAR LALANG PASEK"
+          },
+          {
+            "id": "51020400050003",
+            "name": "BANJAR CEPAKA"
+          }
+        ]
+      },
+      {
+        "id": "5102040006",
+        "name": "KABA-KABA",
+        "sls": [
+          {
+            "id": "51020400060001",
+            "name": "BANJAR TEGAL KEPUH"
+          },
+          {
+            "id": "51020400060002",
+            "name": "BANJAR DAUH YEH"
+          },
+          {
+            "id": "51020400060003",
+            "name": "BANJAR DANGIN UMA"
+          },
+          {
+            "id": "51020400060004",
+            "name": "BANJAR BUADING"
+          },
+          {
+            "id": "51020400060005",
+            "name": "BANJAR DUALANG"
+          },
+          {
+            "id": "51020400060006",
+            "name": "BANJAR GADUH"
+          },
+          {
+            "id": "51020400060007",
+            "name": "BANJAR SENGGUAN"
+          },
+          {
+            "id": "51020400060008",
+            "name": "BANJAR JUNTAL"
+          },
+          {
+            "id": "51020400060009",
+            "name": "BANJAR BERINGKIT"
+          },
+          {
+            "id": "51020400060010",
+            "name": "BANJAR PILISAN"
+          }
+        ]
+      },
+      {
+        "id": "5102040007",
+        "name": "PANDAK GEDE",
+        "sls": [
+          {
+            "id": "51020400070001",
+            "name": "BANJAR BATAN POH"
+          },
+          {
+            "id": "51020400070002",
+            "name": "BANJAR PANGKUNG"
+          },
+          {
+            "id": "51020400070003",
+            "name": "BANJAR SABA"
+          },
+          {
+            "id": "51020400070004",
+            "name": "BANJAR BELATUNG"
+          },
+          {
+            "id": "51020400070005",
+            "name": "BANJAR PANTI"
+          },
+          {
+            "id": "51020400070006",
+            "name": "BANJAR TAMAN SARI"
+          },
+          {
+            "id": "51020400070007",
+            "name": "BANJAR KEBON"
+          },
+          {
+            "id": "51020400070008",
+            "name": "BANJAR PASTI"
+          }
+        ]
+      },
+      {
+        "id": "5102040008",
+        "name": "BENGKEL",
+        "sls": [
+          {
+            "id": "51020400080001",
+            "name": "BANJAR BUDUK"
+          },
+          {
+            "id": "51020400080002",
+            "name": "BANJAR BENGKEL GEDE"
+          },
+          {
+            "id": "51020400080003",
+            "name": "BANJAR BENGKEL KAWAN"
+          },
+          {
+            "id": "51020400080004",
+            "name": "BANJAR TELENGIS"
+          }
+        ]
+      },
+      {
+        "id": "5102040009",
+        "name": "PEJATEN",
+        "sls": [
+          {
+            "id": "51020400090001",
+            "name": "BANJAR PANGKUNG"
+          },
+          {
+            "id": "51020400090002",
+            "name": "BANJAR SIMPANGAN"
+          },
+          {
+            "id": "51020400090003",
+            "name": "BANJAR BADUNG"
+          },
+          {
+            "id": "51020400090004",
+            "name": "BANJAR PAMESAN"
+          },
+          {
+            "id": "51020400090005",
+            "name": "BANJAR DUKUH"
+          },
+          {
+            "id": "51020400090006",
+            "name": "BANJAR PEJATEN"
+          },
+          {
+            "id": "51020400090007",
+            "name": "BANJAR BALERAN"
+          },
+          {
+            "id": "51020400090008",
+            "name": "BANJAR DALEM"
+          }
+        ]
+      },
+      {
+        "id": "5102040010",
+        "name": "NYITDAH",
+        "sls": [
+          {
+            "id": "51020400100001",
+            "name": "BANJAR KEBON"
+          },
+          {
+            "id": "51020400100002",
+            "name": "BANJAR SENGGUAN"
+          },
+          {
+            "id": "51020400100003",
+            "name": "BANJAR TEGAL"
+          },
+          {
+            "id": "51020400100004",
+            "name": "BANJAR TEGAL ANTUGAN"
+          },
+          {
+            "id": "51020400100005",
+            "name": "BANJAR SUDA"
+          },
+          {
+            "id": "51020400100006",
+            "name": "BANJAR SUDA KANGINAN"
+          },
+          {
+            "id": "51020400100007",
+            "name": "BANJAR BABAKAN"
+          },
+          {
+            "id": "51020400100008",
+            "name": "BANJAR MENGENING"
+          }
+        ]
+      },
+      {
+        "id": "5102040011",
+        "name": "PANDAK BANDUNG",
+        "sls": [
+          {
+            "id": "51020400110001",
+            "name": "BANJAR BANDUNG"
+          },
+          {
+            "id": "51020400110002",
+            "name": "BANJAR LAING"
+          },
+          {
+            "id": "51020400110003",
+            "name": "BANJAR MERANGGI"
+          },
+          {
+            "id": "51020400110004",
+            "name": "BANJAR MALMUNDEH"
+          }
+        ]
+      },
+      {
+        "id": "5102040012",
+        "name": "NYAMBU",
+        "sls": [
+          {
+            "id": "51020400120001",
+            "name": "BANJAR DUKUH"
+          },
+          {
+            "id": "51020400120002",
+            "name": "BANJAR KEBAYAN"
+          },
+          {
+            "id": "51020400120003",
+            "name": "BANJAR MUNDEH"
+          },
+          {
+            "id": "51020400120004",
+            "name": "BANJAR TOHJIWA"
+          },
+          {
+            "id": "51020400120005",
+            "name": "BANJAR NYAMBU"
+          },
+          {
+            "id": "51020400120006",
+            "name": "BANJAR CARIK PADANG"
+          }
+        ]
+      },
+      {
+        "id": "5102040013",
+        "name": "KEDIRI",
+        "sls": [
+          {
+            "id": "51020400130001",
+            "name": "BANJAR JAGASATRU"
+          },
+          {
+            "id": "51020400130002",
+            "name": "BANJAR SEMA"
+          },
+          {
+            "id": "51020400130003",
+            "name": "BANJAR PUSEH"
+          },
+          {
+            "id": "51020400130004",
+            "name": "BANJAR PANDE"
+          },
+          {
+            "id": "51020400130005",
+            "name": "BANJAR DELOD PURI"
+          },
+          {
+            "id": "51020400130006",
+            "name": "BANJAR PANTI"
+          },
+          {
+            "id": "51020400130007",
+            "name": "BANJAR DEMUNG"
+          }
+        ]
+      },
+      {
+        "id": "5102040014",
+        "name": "ABIAN TUWUNG",
+        "sls": [
+          {
+            "id": "51020400140001",
+            "name": "BANJAR TAMAN SURODADI"
+          },
+          {
+            "id": "51020400140002",
+            "name": "BANJAR KORIPAN KELOD"
+          },
+          {
+            "id": "51020400140003",
+            "name": "BANJAR ABIAN TUWUNG KELOD"
+          },
+          {
+            "id": "51020400140004",
+            "name": "BANJAR DAKDAKAN"
+          },
+          {
+            "id": "51020400140005",
+            "name": "BANJAR ABIANTUWUNG KAJA"
+          },
+          {
+            "id": "51020400140006",
+            "name": "BANJAR PASEKAN"
+          },
+          {
+            "id": "51020400140007",
+            "name": "BANJAR BALU"
+          },
+          {
+            "id": "51020400140008",
+            "name": "BANJAR KORIPAN KAJA"
+          },
+          {
+            "id": "51020400140009",
+            "name": "BANJAR YANGAPI"
+          },
+          {
+            "id": "51020400140010",
+            "name": "BANJAR TAPESAN"
+          },
+          {
+            "id": "51020400140011",
+            "name": "BANJAR SURALAGA"
+          },
+          {
+            "id": "51020400140012",
+            "name": "BANJAR PANGKUNG NYULING"
+          },
+          {
+            "id": "51020400140013",
+            "name": "BANJAR GANTER"
+          }
+        ]
+      },
+      {
+        "id": "5102040015",
+        "name": "BANJAR ANYAR",
+        "sls": [
+          {
+            "id": "51020400150001",
+            "name": "BANJAR SANGGULAN"
+          },
+          {
+            "id": "51020400150002",
+            "name": "BANJAR TAMAN SARI ANYAR"
+          },
+          {
+            "id": "51020400150003",
+            "name": "BANJAR TAMAN SEKAR"
+          },
+          {
+            "id": "51020400150004",
+            "name": "BANJAR BANJAR ANYAR"
+          },
+          {
+            "id": "51020400150005",
+            "name": "BANJAR DAJAN TENTEN"
+          },
+          {
+            "id": "51020400150006",
+            "name": "BANJAR SANGGULAN ANYAR"
+          },
+          {
+            "id": "51020400150007",
+            "name": "BANJAR JADI ANYAR"
+          },
+          {
+            "id": "51020400150008",
+            "name": "BANJAR TANAH BANG"
+          },
+          {
+            "id": "51020400150009",
+            "name": "BANJAR SENAPAHAN KELOD"
+          },
+          {
+            "id": "51020400150010",
+            "name": "BANJAR SENAPAHAN KAJA"
+          },
+          {
+            "id": "51020400150011",
+            "name": "BANJAR PEMENANG"
+          },
+          {
+            "id": "51020400150012",
+            "name": "BANJAR JADI DESA"
+          },
+          {
+            "id": "51020400150013",
+            "name": "BANJAR JADI BABAKAN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5102050",
+    "name": "MARGA",
+    "desa": [
+      {
+        "id": "5102050001",
+        "name": "TEGALJADI",
+        "sls": [
+          {
+            "id": "51020500010001",
+            "name": "BANJAR ADENG"
+          },
+          {
+            "id": "51020500010002",
+            "name": "BANJAR PENGEMBUNGAN"
+          },
+          {
+            "id": "51020500010003",
+            "name": "BANJAR TEGAL JADI"
+          }
+        ]
+      },
+      {
+        "id": "5102050002",
+        "name": "KUKUH",
+        "sls": [
+          {
+            "id": "51020500020001",
+            "name": "BANJAR TEGAL"
+          },
+          {
+            "id": "51020500020002",
+            "name": "BANJAR DENUMA"
+          },
+          {
+            "id": "51020500020003",
+            "name": "BANJAR BATANWANI"
+          },
+          {
+            "id": "51020500020004",
+            "name": "BANJAR DALEM KERTI"
+          },
+          {
+            "id": "51020500020005",
+            "name": "BANJAR TATAG"
+          },
+          {
+            "id": "51020500020006",
+            "name": "BANJAR MUNGGAL"
+          },
+          {
+            "id": "51020500020007",
+            "name": "BANJAR TENGAH"
+          },
+          {
+            "id": "51020500020008",
+            "name": "BANJAR LODALANG"
+          }
+        ]
+      },
+      {
+        "id": "5102050003",
+        "name": "BERINGKIT BELAYU",
+        "sls": [
+          {
+            "id": "51020500030001",
+            "name": "BANJAR BERINGKIT"
+          },
+          {
+            "id": "51020500030002",
+            "name": "BANJAR JEBAUD"
+          },
+          {
+            "id": "51020500030003",
+            "name": "BANJAR BAJERA BELAYU"
+          },
+          {
+            "id": "51020500030004",
+            "name": "BANJAR BAJERA PAGEBEGAN"
+          }
+        ]
+      },
+      {
+        "id": "5102050004",
+        "name": "PEKEN BELAYU",
+        "sls": [
+          {
+            "id": "51020500040001",
+            "name": "BANJAR PEKANDELAN"
+          },
+          {
+            "id": "51020500040002",
+            "name": "BANJAR PEKEN"
+          },
+          {
+            "id": "51020500040003",
+            "name": "BANJAR TENGAH"
+          },
+          {
+            "id": "51020500040004",
+            "name": "BANJAR GUNUNG SIKU"
+          },
+          {
+            "id": "51020500040005",
+            "name": "BANJAR UMABIAN"
+          }
+        ]
+      },
+      {
+        "id": "5102050005",
+        "name": "BATANNYUH",
+        "sls": [
+          {
+            "id": "51020500050001",
+            "name": "BANJAR BATANNYUH KAJA"
+          },
+          {
+            "id": "51020500050002",
+            "name": "BANJAR BATANNYUH KELOD"
+          },
+          {
+            "id": "51020500050003",
+            "name": "BANJAR UMADIWANG KANGIN"
+          },
+          {
+            "id": "51020500050004",
+            "name": "BANJAR UMADIWANG KAWAN"
+          }
+        ]
+      },
+      {
+        "id": "5102050006",
+        "name": "KUWUM",
+        "sls": [
+          {
+            "id": "51020500060001",
+            "name": "BANJAR KUWUM TEGAL LINGGAH"
+          },
+          {
+            "id": "51020500060002",
+            "name": "BANJAR KUWUM MAMBAL"
+          },
+          {
+            "id": "51020500060003",
+            "name": "BANJAR KUWUM ANYAR"
+          },
+          {
+            "id": "51020500060004",
+            "name": "BANJAR KUWUM ANCAK"
+          },
+          {
+            "id": "51020500060005",
+            "name": "BANJAR KUWUM ANCAK BIJA"
+          }
+        ]
+      },
+      {
+        "id": "5102050007",
+        "name": "CAUBELAYU",
+        "sls": [
+          {
+            "id": "51020500070001",
+            "name": "BANJAR CAU BELAYU"
+          },
+          {
+            "id": "51020500070002",
+            "name": "BANJAR SERIBUPATI"
+          },
+          {
+            "id": "51020500070003",
+            "name": "BANJAR BABAKAN"
+          },
+          {
+            "id": "51020500070004",
+            "name": "BANJAR PADANGALING"
+          }
+        ]
+      },
+      {
+        "id": "5102050008",
+        "name": "SELANBAWAK",
+        "sls": [
+          {
+            "id": "51020500080001",
+            "name": "BANJAR PEKILEN"
+          },
+          {
+            "id": "51020500080002",
+            "name": "BANJAR KEKERAN"
+          },
+          {
+            "id": "51020500080003",
+            "name": "BANJAR MANIK GUNUNG"
+          },
+          {
+            "id": "51020500080004",
+            "name": "BANJAR SELANBAWAK KELOD"
+          },
+          {
+            "id": "51020500080005",
+            "name": "BANJAR SELANBAWAK KAJA"
+          }
+        ]
+      },
+      {
+        "id": "5102050009",
+        "name": "MARGA",
+        "sls": [
+          {
+            "id": "51020500090001",
+            "name": "BANJAR LEBAH"
+          },
+          {
+            "id": "51020500090002",
+            "name": "BANJAR BASA"
+          },
+          {
+            "id": "51020500090003",
+            "name": "BANJAR BENG"
+          },
+          {
+            "id": "51020500090004",
+            "name": "BANJAR TEMBAU"
+          }
+        ]
+      },
+      {
+        "id": "5102050010",
+        "name": "PETIGA",
+        "sls": [
+          {
+            "id": "51020500100001",
+            "name": "BANJAR SEMINGAN"
+          },
+          {
+            "id": "51020500100002",
+            "name": "BANJAR PETIGA KANGIN"
+          },
+          {
+            "id": "51020500100003",
+            "name": "BANJAR BELAMBAN"
+          }
+        ]
+      },
+      {
+        "id": "5102050011",
+        "name": "TUA",
+        "sls": [
+          {
+            "id": "51020500110001",
+            "name": "BANJAR TUA"
+          },
+          {
+            "id": "51020500110002",
+            "name": "BANJAR CAU"
+          },
+          {
+            "id": "51020500110003",
+            "name": "BANJAR BAYAN"
+          }
+        ]
+      },
+      {
+        "id": "5102050012",
+        "name": "PAYANGAN",
+        "sls": [
+          {
+            "id": "51020500120001",
+            "name": "BANJAR BUNUTIN"
+          },
+          {
+            "id": "51020500120002",
+            "name": "BANJAR KALIBALANG"
+          },
+          {
+            "id": "51020500120003",
+            "name": "BANJAR PAYANGAN GRESEH"
+          },
+          {
+            "id": "51020500120004",
+            "name": "BANJAR PAYANGAN KAJA"
+          },
+          {
+            "id": "51020500120005",
+            "name": "BANJAR PAYANGAN TENGAH"
+          },
+          {
+            "id": "51020500120006",
+            "name": "BANJAR ALAS TERUNA"
+          },
+          {
+            "id": "51020500120007",
+            "name": "BANJAR ALAS SANDAN"
+          },
+          {
+            "id": "51020500120008",
+            "name": "BANJAR PAYANGAN MEDI"
+          },
+          {
+            "id": "51020500120009",
+            "name": "BANJAR GELAGAH"
+          }
+        ]
+      },
+      {
+        "id": "5102050013",
+        "name": "DAUH PURI",
+        "sls": [
+          {
+            "id": "51020500130001",
+            "name": "BANJAR KELACI"
+          },
+          {
+            "id": "51020500130002",
+            "name": "BANJAR OLE"
+          }
+        ]
+      },
+      {
+        "id": "5102050014",
+        "name": "DAJAN PURI",
+        "sls": [
+          {
+            "id": "51020500140001",
+            "name": "BANJAR ANYAR"
+          },
+          {
+            "id": "51020500140002",
+            "name": "BANJAR BUGBUGAN"
+          },
+          {
+            "id": "51020500140003",
+            "name": "BANJAR TENGAH"
+          },
+          {
+            "id": "51020500140004",
+            "name": "BANJAR TENGAH SEMETON"
+          }
+        ]
+      },
+      {
+        "id": "5102050015",
+        "name": "GELUNTUNG",
+        "sls": [
+          {
+            "id": "51020500150001",
+            "name": "BANJAR UMABALI"
+          },
+          {
+            "id": "51020500150002",
+            "name": "BANJAR GELUNTUNG KAJA"
+          },
+          {
+            "id": "51020500150003",
+            "name": "BANJAR GELUNTUNG KELOD"
+          },
+          {
+            "id": "51020500150004",
+            "name": "BANJAR KIKIK"
+          }
+        ]
+      },
+      {
+        "id": "5102050016",
+        "name": "BARU",
+        "sls": [
+          {
+            "id": "51020500160001",
+            "name": "BANJAR BARU"
+          },
+          {
+            "id": "51020500160002",
+            "name": "BANJAR RADEN"
+          },
+          {
+            "id": "51020500160003",
+            "name": "BANJAR PINGE"
+          },
+          {
+            "id": "51020500160004",
+            "name": "BANJAR SUSUT"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5102060",
+    "name": "BATURITI",
+    "desa": [
+      {
+        "id": "5102060001",
+        "name": "PEREAN",
+        "sls": [
+          {
+            "id": "51020600010001",
+            "name": "BANJAR PENYUCUK"
+          },
+          {
+            "id": "51020600010002",
+            "name": "BANJAR PEREAN"
+          },
+          {
+            "id": "51020600010003",
+            "name": "BANJAR PUSEH"
+          },
+          {
+            "id": "51020600010004",
+            "name": "BANJAR BUNYUH"
+          }
+        ]
+      },
+      {
+        "id": "5102060002",
+        "name": "PEREAN TENGAH",
+        "sls": [
+          {
+            "id": "51020600020001",
+            "name": "BANJAR SELAT"
+          },
+          {
+            "id": "51020600020002",
+            "name": "BANJAR BERTEH"
+          },
+          {
+            "id": "51020600020003",
+            "name": "BANJAR TUKA"
+          },
+          {
+            "id": "51020600020004",
+            "name": "BANJAR KUKUB"
+          }
+        ]
+      },
+      {
+        "id": "5102060003",
+        "name": "PEREAN KANGIN",
+        "sls": [
+          {
+            "id": "51020600030001",
+            "name": "BANJAR BASANGBE"
+          },
+          {
+            "id": "51020600030002",
+            "name": "BANJAR PIUN"
+          },
+          {
+            "id": "51020600030003",
+            "name": "BANJAR LEBA"
+          },
+          {
+            "id": "51020600030004",
+            "name": "BANJAR BANJAR ANYAR"
+          },
+          {
+            "id": "51020600030005",
+            "name": "BANJAR BELUANGAN"
+          }
+        ]
+      },
+      {
+        "id": "5102060004",
+        "name": "LUWUS",
+        "sls": [
+          {
+            "id": "51020600040001",
+            "name": "BANJAR PALIAN"
+          },
+          {
+            "id": "51020600040002",
+            "name": "BANJAR PUNJUAN"
+          },
+          {
+            "id": "51020600040003",
+            "name": "BANJAR BELAH"
+          },
+          {
+            "id": "51020600040004",
+            "name": "BANJAR LUWUS"
+          },
+          {
+            "id": "51020600040005",
+            "name": "BANJAR POYAN"
+          },
+          {
+            "id": "51020600040006",
+            "name": "BANJAR MANDUL"
+          }
+        ]
+      },
+      {
+        "id": "5102060005",
+        "name": "MEKARSARI",
+        "sls": [
+          {
+            "id": "51020600050001",
+            "name": "BANJAR MOJAN"
+          },
+          {
+            "id": "51020600050002",
+            "name": "BANJAR PENENG"
+          },
+          {
+            "id": "51020600050003",
+            "name": "BANJAR TUNDAK"
+          },
+          {
+            "id": "51020600050004",
+            "name": "BANJAR TEMACUN"
+          },
+          {
+            "id": "51020600050005",
+            "name": "BANJAR SEKAR GULA"
+          },
+          {
+            "id": "51020600050006",
+            "name": "BANJAR KEROBOKAN"
+          }
+        ]
+      },
+      {
+        "id": "5102060006",
+        "name": "APUAN",
+        "sls": [
+          {
+            "id": "51020600060001",
+            "name": "BANJAR KAMBANGAN"
+          },
+          {
+            "id": "51020600060002",
+            "name": "BANJAR TINUNGAN"
+          },
+          {
+            "id": "51020600060003",
+            "name": "BANJAR JELANTIK"
+          },
+          {
+            "id": "51020600060004",
+            "name": "BANJAR APUAN"
+          }
+        ]
+      },
+      {
+        "id": "5102060007",
+        "name": "ANGSERI",
+        "sls": [
+          {
+            "id": "51020600070001",
+            "name": "BANJAR MUNDUK LUMBANG"
+          },
+          {
+            "id": "51020600070002",
+            "name": "BANJAR ANGSERI KELOD"
+          },
+          {
+            "id": "51020600070003",
+            "name": "BANJAR ANGSERI"
+          },
+          {
+            "id": "51020600070004",
+            "name": "BANJAR TEGEH"
+          },
+          {
+            "id": "51020600072001",
+            "name": "HUTAN"
+          }
+        ]
+      },
+      {
+        "id": "5102060008",
+        "name": "BANGLI",
+        "sls": [
+          {
+            "id": "51020600080001",
+            "name": "BANJAR SANDAN"
+          },
+          {
+            "id": "51020600080002",
+            "name": "BANJAR MUNDUK ANDONG"
+          },
+          {
+            "id": "51020600080003",
+            "name": "BANJAR APIT YEH"
+          },
+          {
+            "id": "51020600080004",
+            "name": "BANJAR UMAPOH"
+          },
+          {
+            "id": "51020600080005",
+            "name": "BANJAR GUNUNG KANGIN"
+          },
+          {
+            "id": "51020600080006",
+            "name": "BANJAR BANGLI"
+          },
+          {
+            "id": "51020600080007",
+            "name": "BANJAR TITIGALAR"
+          },
+          {
+            "id": "51020600082001",
+            "name": "HUTAN"
+          }
+        ]
+      },
+      {
+        "id": "5102060009",
+        "name": "BATURITI",
+        "sls": [
+          {
+            "id": "51020600090001",
+            "name": "BANJAR ABIANLUANG"
+          },
+          {
+            "id": "51020600090002",
+            "name": "BANJAR BANGAH"
+          },
+          {
+            "id": "51020600090003",
+            "name": "BANJAR PACUNG"
+          },
+          {
+            "id": "51020600090004",
+            "name": "BANJAR BATURITI KELOD"
+          },
+          {
+            "id": "51020600090005",
+            "name": "BANJAR BATURITI"
+          },
+          {
+            "id": "51020600090006",
+            "name": "BANJAR BATURITI KAJA"
+          },
+          {
+            "id": "51020600090007",
+            "name": "BANJAR PEKARANGAN"
+          },
+          {
+            "id": "51020600090008",
+            "name": "BANJAR ABANG"
+          }
+        ]
+      },
+      {
+        "id": "5102060010",
+        "name": "BATUNYA",
+        "sls": [
+          {
+            "id": "51020600100001",
+            "name": "BANJAR BATUNYA"
+          },
+          {
+            "id": "51020600100002",
+            "name": "BANJAR TAMAN TANDA"
+          },
+          {
+            "id": "51020600100003",
+            "name": "BANJAR JUWUK LEGI"
+          },
+          {
+            "id": "51020600100004",
+            "name": "BANJAR BANJAR ABING"
+          }
+        ]
+      },
+      {
+        "id": "5102060011",
+        "name": "ANTAPAN",
+        "sls": [
+          {
+            "id": "51020600110001",
+            "name": "BANJAR ANTAPAN"
+          },
+          {
+            "id": "51020600110002",
+            "name": "BANJAR TALANGPATI"
+          },
+          {
+            "id": "51020600110003",
+            "name": "BANJAR TOHJIWA"
+          },
+          {
+            "id": "51020600110004",
+            "name": "BANJAR GELOGOR"
+          },
+          {
+            "id": "51020600110005",
+            "name": "BANJAR MAYUNGAN ANYAR"
+          },
+          {
+            "id": "51020600110006",
+            "name": "BANJAR MAYUNGAN LET"
+          },
+          {
+            "id": "51020600112001",
+            "name": "HUTAN"
+          }
+        ]
+      },
+      {
+        "id": "5102060012",
+        "name": "CANDIKUNING",
+        "sls": [
+          {
+            "id": "51020600120001",
+            "name": "BANJAR BATUSESA"
+          },
+          {
+            "id": "51020600120002",
+            "name": "BANJAR PEMUTERAN"
+          },
+          {
+            "id": "51020600120003",
+            "name": "BANJAR BUKIT CATU"
+          },
+          {
+            "id": "51020600120004",
+            "name": "BANJAR CANDI KUNING II"
+          },
+          {
+            "id": "51020600120005",
+            "name": "BANJAR CANDI KUNING I"
+          },
+          {
+            "id": "51020600120006",
+            "name": "BANJAR KEMBANG MERTA"
+          },
+          {
+            "id": "51020600122001",
+            "name": "HUTAN"
+          },
+          {
+            "id": "51020600122003",
+            "name": "HUTAN"
+          },
+          {
+            "id": "51020600126002",
+            "name": "DANAU BERATAN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5102070",
+    "name": "PENEBEL",
+    "desa": [
+      {
+        "id": "5102070001",
+        "name": "REJASA",
+        "sls": [
+          {
+            "id": "51020700010001",
+            "name": "BANJAR REJASA KAJA"
+          },
+          {
+            "id": "51020700010002",
+            "name": "BANJAR REJASA KELOD"
+          },
+          {
+            "id": "51020700010003",
+            "name": "BANJAR KELEMBANG"
+          },
+          {
+            "id": "51020700010004",
+            "name": "BANJAR PACUT"
+          }
+        ]
+      },
+      {
+        "id": "5102070002",
+        "name": "JEGU",
+        "sls": [
+          {
+            "id": "51020700020001",
+            "name": "BANJAR SIGARAN"
+          },
+          {
+            "id": "51020700020002",
+            "name": "BANJAR CEPAG"
+          },
+          {
+            "id": "51020700020003",
+            "name": "BANJAR JEGU BALE AGUNG"
+          },
+          {
+            "id": "51020700020004",
+            "name": "BANJAR JEGU PANDE"
+          },
+          {
+            "id": "51020700020005",
+            "name": "BANJAR JEGU TENGAH"
+          },
+          {
+            "id": "51020700020006",
+            "name": "BANJAR JEGU TEGAL"
+          },
+          {
+            "id": "51020700020007",
+            "name": "BANJAR NGIS KAJA"
+          },
+          {
+            "id": "51020700020008",
+            "name": "BANJAR NGIS KELOD"
+          },
+          {
+            "id": "51020700020009",
+            "name": "BANJAR BENDUL"
+          }
+        ]
+      },
+      {
+        "id": "5102070003",
+        "name": "RIANG GEDE",
+        "sls": [
+          {
+            "id": "51020700030001",
+            "name": "BANJAR DARMA KAJA"
+          },
+          {
+            "id": "51020700030002",
+            "name": "BANJAR DARMA TENGAH"
+          },
+          {
+            "id": "51020700030003",
+            "name": "BANJAR DARMA KELOD"
+          },
+          {
+            "id": "51020700030004",
+            "name": "BANJAR RIANG KAJA"
+          },
+          {
+            "id": "51020700030005",
+            "name": "BANJAR RIANG TENGAH"
+          },
+          {
+            "id": "51020700030006",
+            "name": "BANJAR RIANG KELOD"
+          },
+          {
+            "id": "51020700030007",
+            "name": "BANJAR RIANG DELOD SEMA"
+          },
+          {
+            "id": "51020700030008",
+            "name": "BANJAR RIANG DELOD SEMA GEDE"
+          },
+          {
+            "id": "51020700030009",
+            "name": "BANJAR RIANG ANCUT"
+          }
+        ]
+      },
+      {
+        "id": "5102070004",
+        "name": "BURUAN",
+        "sls": [
+          {
+            "id": "51020700040001",
+            "name": "BANJAR BURUAN KAJA"
+          },
+          {
+            "id": "51020700040002",
+            "name": "BANJAR BURUAN TENGAH"
+          },
+          {
+            "id": "51020700040003",
+            "name": "BANJAR BURUAN KELOD"
+          },
+          {
+            "id": "51020700040004",
+            "name": "BANJAR BENANA KAJA"
+          },
+          {
+            "id": "51020700040005",
+            "name": "BANJAR BENANA KELOD"
+          }
+        ]
+      },
+      {
+        "id": "5102070005",
+        "name": "TAJEN",
+        "sls": [
+          {
+            "id": "51020700050001",
+            "name": "BANJAR TAJEN DAUH YEH"
+          },
+          {
+            "id": "51020700050002",
+            "name": "BANJAR TAJEN JEROAN"
+          },
+          {
+            "id": "51020700050003",
+            "name": "BANJAR TAJEN SEDAHAN"
+          },
+          {
+            "id": "51020700050004",
+            "name": "BANJAR TAJEN PANDE"
+          },
+          {
+            "id": "51020700050005",
+            "name": "BANJAR TAJEN KUTA BALI"
+          },
+          {
+            "id": "51020700050006",
+            "name": "BANJAR CEPIK"
+          },
+          {
+            "id": "51020700050007",
+            "name": "BANJAR CEPIK KELOD"
+          }
+        ]
+      },
+      {
+        "id": "5102070006",
+        "name": "PITRA",
+        "sls": [
+          {
+            "id": "51020700060001",
+            "name": "BANJAR SERASON"
+          },
+          {
+            "id": "51020700060002",
+            "name": "BANJAR POHGENDING KANGIN"
+          },
+          {
+            "id": "51020700060003",
+            "name": "BANJAR POHGENDING KAWAN"
+          },
+          {
+            "id": "51020700060004",
+            "name": "BANJAR NYULING"
+          },
+          {
+            "id": "51020700060005",
+            "name": "BANJAR NYELEKET"
+          },
+          {
+            "id": "51020700060006",
+            "name": "BANJAR PITRA"
+          },
+          {
+            "id": "51020700060007",
+            "name": "BANJAR ASAH KAJA"
+          },
+          {
+            "id": "51020700060008",
+            "name": "BANJAR ASAH KELOD"
+          }
+        ]
+      },
+      {
+        "id": "5102070007",
+        "name": "PENATAHAN",
+        "sls": [
+          {
+            "id": "51020700070001",
+            "name": "BANJAR MONGAN"
+          },
+          {
+            "id": "51020700070002",
+            "name": "BANJAR BEDUGUL"
+          },
+          {
+            "id": "51020700070003",
+            "name": "BANJAR PENATAHAN KAJA"
+          },
+          {
+            "id": "51020700070004",
+            "name": "BANJAR PENATAHAN KELOD"
+          },
+          {
+            "id": "51020700070005",
+            "name": "BANJAR KEKERAN"
+          },
+          {
+            "id": "51020700070006",
+            "name": "BANJAR TEGAYANG"
+          }
+        ]
+      },
+      {
+        "id": "5102070008",
+        "name": "TENGKUDAK",
+        "sls": [
+          {
+            "id": "51020700080001",
+            "name": "BANJAR PENGANGGAHAN"
+          },
+          {
+            "id": "51020700080002",
+            "name": "BANJAR DENUMA"
+          },
+          {
+            "id": "51020700080003",
+            "name": "BANJAR TENGKUDAK"
+          },
+          {
+            "id": "51020700080004",
+            "name": "BANJAR PULUK-PULUK"
+          },
+          {
+            "id": "51020700080005",
+            "name": "BANJAR TINGKIH KEREP"
+          }
+        ]
+      },
+      {
+        "id": "5102070009",
+        "name": "MENGESTE",
+        "sls": [
+          {
+            "id": "51020700090001",
+            "name": "BANJAR PILING KAWAN"
+          },
+          {
+            "id": "51020700090002",
+            "name": "BANJAR PILING TENGAH"
+          },
+          {
+            "id": "51020700090003",
+            "name": "BANJAR PILING KANGINAN"
+          },
+          {
+            "id": "51020700090004",
+            "name": "BANJAR MENGESTA"
+          },
+          {
+            "id": "51020700090005",
+            "name": "BANJAR KEDAMPAL"
+          },
+          {
+            "id": "51020700090006",
+            "name": "BANJAR BELULANG"
+          },
+          {
+            "id": "51020700090007",
+            "name": "BANJAR WONGAYA BETAN"
+          }
+        ]
+      },
+      {
+        "id": "5102070010",
+        "name": "PENEBEL",
+        "sls": [
+          {
+            "id": "51020700100001",
+            "name": "BANJAR PENEBEL KAJA"
+          },
+          {
+            "id": "51020700100002",
+            "name": "BANJAR PENEBEL KELOD"
+          },
+          {
+            "id": "51020700100003",
+            "name": "BANJAR KARADAN"
+          },
+          {
+            "id": "51020700100004",
+            "name": "BANJAR DUKUH"
+          },
+          {
+            "id": "51020700100005",
+            "name": "BANJAR KUPANG"
+          },
+          {
+            "id": "51020700100006",
+            "name": "BANJAR UBUNG"
+          },
+          {
+            "id": "51020700100007",
+            "name": "BANJAR SUNANTAYA KAJA"
+          },
+          {
+            "id": "51020700100008",
+            "name": "BANJAR SUNANTAYA KELOD"
+          },
+          {
+            "id": "51020700100009",
+            "name": "BANJAR GUNUNG"
+          }
+        ]
+      },
+      {
+        "id": "5102070011",
+        "name": "BIAUNG",
+        "sls": [
+          {
+            "id": "51020700110001",
+            "name": "BANJAR PUMAHAN"
+          },
+          {
+            "id": "51020700110002",
+            "name": "BANJAR PEMANIS"
+          },
+          {
+            "id": "51020700110003",
+            "name": "BANJAR PEMANIS KELOD"
+          },
+          {
+            "id": "51020700110004",
+            "name": "BANJAR CACAB JANGKAHAN"
+          },
+          {
+            "id": "51020700110005",
+            "name": "BANJAR BIAUNG KAJA"
+          },
+          {
+            "id": "51020700110006",
+            "name": "BANJAR BIAUNG TENGAH"
+          },
+          {
+            "id": "51020700110007",
+            "name": "BANJAR BIAUNG KELOD"
+          }
+        ]
+      },
+      {
+        "id": "5102070012",
+        "name": "BABAHAN",
+        "sls": [
+          {
+            "id": "51020700120001",
+            "name": "BANJAR BABAHAN KAWAN"
+          },
+          {
+            "id": "51020700120002",
+            "name": "BANJAR BABAHAN TENGAH"
+          },
+          {
+            "id": "51020700120003",
+            "name": "BANJAR BABAHAN KANGINAN"
+          },
+          {
+            "id": "51020700120004",
+            "name": "BANJAR DADIA"
+          },
+          {
+            "id": "51020700120005",
+            "name": "BANJAR BOLANGAN"
+          },
+          {
+            "id": "51020700120006",
+            "name": "BANJAR UTU"
+          }
+        ]
+      },
+      {
+        "id": "5102070013",
+        "name": "SENGANAN",
+        "sls": [
+          {
+            "id": "51020700130001",
+            "name": "BANJAR SOKA KAWAN"
+          },
+          {
+            "id": "51020700130002",
+            "name": "BANJAR SOKA KANGINAN"
+          },
+          {
+            "id": "51020700130003",
+            "name": "BANJAR BUGBUGAN SARI"
+          },
+          {
+            "id": "51020700130004",
+            "name": "BANJAR BUGBUGAN KAJA"
+          },
+          {
+            "id": "51020700130005",
+            "name": "BANJAR BUGBUGAN KELOD"
+          },
+          {
+            "id": "51020700130006",
+            "name": "BANJAR BUGBUGAN ANYAR"
+          },
+          {
+            "id": "51020700130007",
+            "name": "BANJAR SENGANAN KANGINAN"
+          },
+          {
+            "id": "51020700130008",
+            "name": "BANJAR SENGANAN KAWAN KAJA"
+          },
+          {
+            "id": "51020700130009",
+            "name": "BANJAR SENGANAN KAWAN KELOD"
+          },
+          {
+            "id": "51020700130010",
+            "name": "BANJAR PAGI"
+          },
+          {
+            "id": "51020700130011",
+            "name": "BANJAR PACUNG"
+          },
+          {
+            "id": "51020700130012",
+            "name": "BANJAR KERIDAN"
+          },
+          {
+            "id": "51020700132001",
+            "name": "HUTAN"
+          }
+        ]
+      },
+      {
+        "id": "5102070014",
+        "name": "JATILUWIH",
+        "sls": [
+          {
+            "id": "51020700140001",
+            "name": "BANJAR KESAMBI"
+          },
+          {
+            "id": "51020700140002",
+            "name": "BANJAR KESAMBAHAN KAJA"
+          },
+          {
+            "id": "51020700140003",
+            "name": "BANJAR KESAMBAHAN KELOD"
+          },
+          {
+            "id": "51020700140004",
+            "name": "BANJAR JATILUWIH KAWAN"
+          },
+          {
+            "id": "51020700140005",
+            "name": "BANJAR JATILUWIH KANGIN"
+          },
+          {
+            "id": "51020700140006",
+            "name": "BANJAR GUNUNGSARI DESA"
+          },
+          {
+            "id": "51020700140007",
+            "name": "BANJAR GUNUNGSARI UMAKAYU"
+          },
+          {
+            "id": "51020700140008",
+            "name": "BANJAR GUNUNGSARI KELOD"
+          },
+          {
+            "id": "51020700142001",
+            "name": "HUTAN"
+          }
+        ]
+      },
+      {
+        "id": "5102070015",
+        "name": "WONGAYA GEDE",
+        "sls": [
+          {
+            "id": "51020700150001",
+            "name": "BANJAR WONGAYA KAJA"
+          },
+          {
+            "id": "51020700150002",
+            "name": "BANJAR WONGAYA KELOD"
+          },
+          {
+            "id": "51020700150003",
+            "name": "BANJAR WONGAYA KANGIN"
+          },
+          {
+            "id": "51020700150004",
+            "name": "BANJAR WONGAYA BENDUL"
+          },
+          {
+            "id": "51020700150005",
+            "name": "BANJAR KELONCING"
+          },
+          {
+            "id": "51020700150006",
+            "name": "BANJAR BATU KAMBING"
+          },
+          {
+            "id": "51020700150007",
+            "name": "BANJAR BENGKEL"
+          },
+          {
+            "id": "51020700150008",
+            "name": "BANJAR AMPLAS"
+          },
+          {
+            "id": "51020700150009",
+            "name": "BANJAR SANDAN"
+          }
+        ]
+      },
+      {
+        "id": "5102070016",
+        "name": "PESAGI",
+        "sls": [
+          {
+            "id": "51020700160001",
+            "name": "BANJAR PEGUBUNGAN KAUH"
+          },
+          {
+            "id": "51020700160002",
+            "name": "BANJAR TEGAL SEKA"
+          },
+          {
+            "id": "51020700160003",
+            "name": "BANJAR PEGUBUNGAN KANGIN"
+          },
+          {
+            "id": "51020700160004",
+            "name": "BANJAR CANGKUP"
+          },
+          {
+            "id": "51020700160005",
+            "name": "BANJAR KUUM KELADI"
+          },
+          {
+            "id": "51020700160006",
+            "name": "BANJAR MUNDUK JUWET"
+          },
+          {
+            "id": "51020700160007",
+            "name": "BANJAR PESAGI"
+          },
+          {
+            "id": "51020700160008",
+            "name": "BANJAR TEMUKUAYA"
+          }
+        ]
+      },
+      {
+        "id": "5102070017",
+        "name": "TEGALINGGAH",
+        "sls": [
+          {
+            "id": "51020700170001",
+            "name": "BANJAR TEGALLINGGAH KAJA"
+          },
+          {
+            "id": "51020700170002",
+            "name": "BANJAR TEGALLINGGAH KELOD"
+          },
+          {
+            "id": "51020700170003",
+            "name": "BANJAR TEGALLINGGAH PONDOK"
+          },
+          {
+            "id": "51020700170004",
+            "name": "BANJAR TATAG"
+          }
+        ]
+      },
+      {
+        "id": "5102070018",
+        "name": "SANGKETAN",
+        "sls": [
+          {
+            "id": "51020700180001",
+            "name": "BANJAR SANGKETAN"
+          },
+          {
+            "id": "51020700180002",
+            "name": "BANJAR PURING"
+          },
+          {
+            "id": "51020700180003",
+            "name": "BANJAR ANYAR"
+          },
+          {
+            "id": "51020700180004",
+            "name": "BANJAR MUNDUK DAWA"
+          },
+          {
+            "id": "51020700180005",
+            "name": "BANJAR PEKANDELAN"
+          },
+          {
+            "id": "51020700180006",
+            "name": "BANJAR BUN"
+          },
+          {
+            "id": "51020700180007",
+            "name": "BANJAR BONGLI"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5102080",
+    "name": "PUPUAN",
+    "desa": [
+      {
+        "id": "5102080001",
+        "name": "BELATUNGAN",
+        "sls": [
+          {
+            "id": "51020800010001",
+            "name": "BANJAR ANTAP GAWANG"
+          },
+          {
+            "id": "51020800010002",
+            "name": "BANJAR YEH SIBUH"
+          },
+          {
+            "id": "51020800010003",
+            "name": "BANJAR MUNDUK GAWANG"
+          },
+          {
+            "id": "51020800010004",
+            "name": "BANJAR DELOD CEKING"
+          },
+          {
+            "id": "51020800010005",
+            "name": "BANJAR DAJAN CEKING"
+          },
+          {
+            "id": "51020800010006",
+            "name": "BANJAR MUNDUK NGANDANG"
+          }
+        ]
+      },
+      {
+        "id": "5102080002",
+        "name": "KEBON PADANGAN",
+        "sls": [
+          {
+            "id": "51020800020001",
+            "name": "BANJAR GALIUKIR KELOD"
+          },
+          {
+            "id": "51020800020002",
+            "name": "BANJAR GALIUKIR KAJA"
+          },
+          {
+            "id": "51020800020003",
+            "name": "BANJAR KEBON KELOD"
+          },
+          {
+            "id": "51020800020004",
+            "name": "BANJAR KEBON KAJA"
+          },
+          {
+            "id": "51020800020005",
+            "name": "BANJAR BALE TIMBANG"
+          }
+        ]
+      },
+      {
+        "id": "5102080003",
+        "name": "BELIMBING",
+        "sls": [
+          {
+            "id": "51020800030001",
+            "name": "BANJAR SURADADI"
+          },
+          {
+            "id": "51020800030002",
+            "name": "BANJAR DUREN TALUH"
+          },
+          {
+            "id": "51020800030003",
+            "name": "BANJAR BELANTIBAH"
+          },
+          {
+            "id": "51020800030004",
+            "name": "BANJAR BELIMBING DESA"
+          },
+          {
+            "id": "51020800030005",
+            "name": "BANJAR BENITI"
+          },
+          {
+            "id": "51020800030006",
+            "name": "BANJAR BELIMBING ANYAR"
+          },
+          {
+            "id": "51020800030007",
+            "name": "BANJAR BELIMBING TEGAL"
+          },
+          {
+            "id": "51020800030008",
+            "name": "BANJAR PEMUDUNGAN"
+          }
+        ]
+      },
+      {
+        "id": "5102080004",
+        "name": "SANDA",
+        "sls": [
+          {
+            "id": "51020800040001",
+            "name": "BANJAR SEKAR SANDAT"
+          },
+          {
+            "id": "51020800040002",
+            "name": "BANJAR SANDA"
+          },
+          {
+            "id": "51020800040003",
+            "name": "BANJAR PAKA"
+          }
+        ]
+      },
+      {
+        "id": "5102080005",
+        "name": "BATUNGSEL",
+        "sls": [
+          {
+            "id": "51020800050001",
+            "name": "BANJAR BATUNGSEL KAJA"
+          },
+          {
+            "id": "51020800050002",
+            "name": "BANJAR BATUNGSEL KELOD"
+          },
+          {
+            "id": "51020800050003",
+            "name": "BANJAR PEMPATAN"
+          }
+        ]
+      },
+      {
+        "id": "5102080006",
+        "name": "PUJUNGAN",
+        "sls": [
+          {
+            "id": "51020800060001",
+            "name": "BANJAR MEKARSARI"
+          },
+          {
+            "id": "51020800060002",
+            "name": "BANJAR MARGASARI"
+          },
+          {
+            "id": "51020800060003",
+            "name": "BANJAR TAMANSARI"
+          },
+          {
+            "id": "51020800060004",
+            "name": "BANJAR MERTASARI"
+          },
+          {
+            "id": "51020800060005",
+            "name": "BANJAR PUSPASARI"
+          },
+          {
+            "id": "51020800060006",
+            "name": "BANJAR TIBUDALEM"
+          }
+        ]
+      },
+      {
+        "id": "5102080007",
+        "name": "PAJAHAN",
+        "sls": [
+          {
+            "id": "51020800070001",
+            "name": "BANJAR BANYUSARI"
+          },
+          {
+            "id": "51020800070002",
+            "name": "BANJAR PAJAHAN"
+          },
+          {
+            "id": "51020800070003",
+            "name": "BANJAR TANGIS"
+          },
+          {
+            "id": "51020800070004",
+            "name": "BANJAR DUREN MINCID"
+          },
+          {
+            "id": "51020800070005",
+            "name": "BANJAR TANAH SARI"
+          },
+          {
+            "id": "51020800070006",
+            "name": "BANJAR KELAU"
+          }
+        ]
+      },
+      {
+        "id": "5102080008",
+        "name": "MUNDUK TEMU",
+        "sls": [
+          {
+            "id": "51020800080001",
+            "name": "BANJAR KEBONJERO KAUH"
+          },
+          {
+            "id": "51020800080002",
+            "name": "BANJAR KEBONJERO KANGIN"
+          },
+          {
+            "id": "51020800080003",
+            "name": "BANJAR ANGGASARI KELOD"
+          },
+          {
+            "id": "51020800080004",
+            "name": "BANJAR ANGGASARI KAJA"
+          },
+          {
+            "id": "51020800080005",
+            "name": "BANJAR MUNDUKTEMU KELOD"
+          },
+          {
+            "id": "51020800080006",
+            "name": "BANJAR MUNDUKTEMU KAJA"
+          }
+        ]
+      },
+      {
+        "id": "5102080009",
+        "name": "PUPUAN",
+        "sls": [
+          {
+            "id": "51020800090001",
+            "name": "BANJAR KAYU PADI"
+          },
+          {
+            "id": "51020800090002",
+            "name": "BANJAR KAYU PURING"
+          },
+          {
+            "id": "51020800090003",
+            "name": "BANJAR KUBU"
+          },
+          {
+            "id": "51020800090004",
+            "name": "BANJAR PUPUAN"
+          },
+          {
+            "id": "51020800090005",
+            "name": "BANJAR SEMOJA"
+          }
+        ]
+      },
+      {
+        "id": "5102080010",
+        "name": "BANTIRAN",
+        "sls": [
+          {
+            "id": "51020800100001",
+            "name": "BANJAR BANTIRAN"
+          },
+          {
+            "id": "51020800100002",
+            "name": "BANJAR BANTIRAN KELOD"
+          },
+          {
+            "id": "51020800100003",
+            "name": "BANJAR AMBANG"
+          },
+          {
+            "id": "51020800100004",
+            "name": "BANJAR TEMU SARI"
+          },
+          {
+            "id": "51020800100005",
+            "name": "BANJAR ASAH"
+          },
+          {
+            "id": "51020800100006",
+            "name": "BANJAR PALISAN"
+          },
+          {
+            "id": "51020800100007",
+            "name": "BANJAR SASAAN"
+          },
+          {
+            "id": "51020800100008",
+            "name": "BANJAR TEJA BUKIT"
+          },
+          {
+            "id": "51020800100009",
+            "name": "BANJAR SELEKSEK"
+          }
+        ]
+      },
+      {
+        "id": "5102080011",
+        "name": "PADANGAN",
+        "sls": [
+          {
+            "id": "51020800110001",
+            "name": "BANJAR PADANGAN KELOD"
+          },
+          {
+            "id": "51020800110002",
+            "name": "BANJAR PADANGAN KAWAN"
+          },
+          {
+            "id": "51020800110003",
+            "name": "BANJAR PADANGAN KANGIN"
+          },
+          {
+            "id": "51020800110004",
+            "name": "BANJAR PADANGAN KAJA"
+          },
+          {
+            "id": "51020800110005",
+            "name": "BANJAR DAUH TUKAD"
+          }
+        ]
+      },
+      {
+        "id": "5102080012",
+        "name": "JELIJIH PUNGGANG",
+        "sls": [
+          {
+            "id": "51020800120001",
+            "name": "BANJAR JELIJIH KELOD"
+          },
+          {
+            "id": "51020800120002",
+            "name": "BANJAR JELIJIH"
+          },
+          {
+            "id": "51020800120003",
+            "name": "BANJAR PUNGGANG"
+          }
+        ]
+      },
+      {
+        "id": "5102080013",
+        "name": "KARYA SARI",
+        "sls": [
+          {
+            "id": "51020800130001",
+            "name": "BANJAR KARYASARI"
+          },
+          {
+            "id": "51020800130002",
+            "name": "BANJAR ASAH TEGEH"
+          }
+        ]
+      },
+      {
+        "id": "5102080014",
+        "name": "SAI",
+        "sls": [
+          {
+            "id": "51020800140001",
+            "name": "BANJAR YEH TUA"
+          },
+          {
+            "id": "51020800140002",
+            "name": "BANJAR GAMBUK"
+          },
+          {
+            "id": "51020800140003",
+            "name": "BANJAR YEH BUSBUS"
+          },
+          {
+            "id": "51020800140004",
+            "name": "BANJAR SAI"
+          }
+        ]
+      }
+    ]
+  }
+]
