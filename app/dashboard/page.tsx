@@ -56,12 +56,12 @@ export default function DashboardPage() {
         const slsMap = new Map<string, string[]>()
 
         for (const row of rows) {
-          const rawId = row[0]
+          const rawId = row[0] as string
           let idSLS: string
-          if (typeof rawId === "number") {
-            idSLS = rawId.toFixed(0).padStart(14, "0")
+          if (!isNaN(Number(rawId))) {
+            idSLS = Number(rawId).toFixed(0).padStart(14, "0")
           } else {
-            idSLS = String(rawId).replace(/[^\d]/g, "").padStart(14, "0")
+            idSLS = String(rawId ?? "").replace(/[^\d]/g, "").padStart(14, "0")
           }
           slsMap.set(idSLS, row)
         }

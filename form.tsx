@@ -350,7 +350,7 @@ export default function Component() {
                               }}
                             >
                               <Plus className="mr-1 h-3 w-3" />
-                              Tambah "{searchName}"
+                              Tambah &quot;{searchName}&quot;
                             </Button>
                           </div>
                         </CommandEmpty>
