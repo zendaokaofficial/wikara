@@ -531,7 +531,7 @@ export default function Component() {
                                     <Input
                                       type="number"
                                       min="0"
-                                      placeholder="Masukkan jumlah KK"
+                                      placeholder="Masukkan jumlah KK (de jure + de facto)"
                                       value={data.jumlahKK}
                                       onChange={(e) => updateSubSLSData(index, "jumlahKK", e.target.value)}
                                     />
@@ -577,7 +577,7 @@ export default function Component() {
                                       <Input
                                         type="number"
                                         min="0"
-                                        placeholder="Masukkan Jumlah Muatan Maksimal dalam Pasar"
+                                        placeholder="Kapasitas Maksimal Muatan Usaha pada Pasar"
                                         value={data.jumlahMuatanPasar}
                                         onChange={(e) => updateSubSLSData(index, "jumlahMuatanPasar", e.target.value)}
                                       />
@@ -586,7 +586,7 @@ export default function Component() {
 
                                   {/* Ada Perumahan */}
                                   <div className="space-y-2">
-                                    <Label>Ada Perumahan baru atau tidak 2025</Label>
+                                    <Label>Ada Perumahan/BTN yang baru dibangun di tahun 2025</Label>
                                     <Select
                                       value={data.adaPerumahan}
                                       onValueChange={(value) => updateSubSLSData(index, "adaPerumahan", value)}
@@ -609,7 +609,7 @@ export default function Component() {
                                   {data.adaPerumahan === "ya" && (
                                     <>
                                       <div className="space-y-2">
-                                        <Label>Berapa Jumlahnya</Label>
+                                        <Label>Jumlah</Label>
                                         <Input
                                           type="number"
                                           min="1"
@@ -621,7 +621,7 @@ export default function Component() {
                                       <div className="space-y-2">
                                         <Label>Nama Perumahan</Label>
                                         <Input
-                                          placeholder="Tuliskan semua nama perusahaan dipisahkan dengan koma"
+                                          placeholder="Nama Perumahan, jika lebih dari satu pisahkan dengan koma. Contoh: Perumahan Griya Asri, Perumahan Taman Indah"
                                           value={data.namaPerumahan}
                                           onChange={(e) => updateSubSLSData(index, "namaPerumahan", e.target.value)}
                                         />
@@ -629,7 +629,7 @@ export default function Component() {
                                       <div className="space-y-2">
                                         <Label>Jumlah Bangunan di perumahan</Label>
                                         <Input
-                                          placeholder="Pisahkan dengan koma apabila lebih dari satu perusahaan"
+                                          placeholder="Jumlah total bangunan/unit rumah terbangun"
                                           value={data.jumlahBangunan}
                                           onChange={(e) => updateSubSLSData(index, "jumlahBangunan", e.target.value)}
                                         />
