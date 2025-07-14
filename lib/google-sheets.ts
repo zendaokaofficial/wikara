@@ -84,7 +84,7 @@ export async function submitToGoogleSheets(data: FormSubmissionData) {
       throw new Error("Failed to submit to Google Sheets")
     }
 
-    const result = await response.json()
+    //const result = await response.json()
     return { success: true, message: "Data berhasil disimpan ke Google Sheets!" }
   } catch (error) {
     console.error("Error submitting to Google Sheets:", error)
