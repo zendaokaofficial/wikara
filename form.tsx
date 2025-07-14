@@ -24,11 +24,12 @@ interface SubSLSData {
   jumlahKK: string
   adaPasar: string
   namaPasar: string
-  jumlahMuatanPasar?: string
+  jumlahMuatanPasar: string
   adaPerumahan: string
   jumlahPerumahan: string
   namaPerumahan: string
   jumlahBangunan: string
+  catatan: string
 }
 
 export default function Component() {
@@ -70,6 +71,7 @@ export default function Component() {
             jumlahPerumahan: "",
             namaPerumahan: "",
             jumlahBangunan: "",
+            catatan: "",
           }
         )
       })
@@ -516,6 +518,9 @@ export default function Component() {
                                   {/* Jumlah Muatan Usaha */}
                                   <div className="space-y-2">
                                     <Label>Jumlah Muatan Usaha</Label>
+                                    <p className="text-sm text-muted-foreground">
+                                      Tidak mencakup muatan pasar; akan ditanyakan pada pertanyaan berikutnya secara terpisah.
+                                    </p>
                                     <Input
                                       type="number"
                                       min="0"
@@ -629,9 +634,19 @@ export default function Component() {
                                       <div className="space-y-2">
                                         <Label>Jumlah Bangunan di perumahan</Label>
                                         <Input
+                                          type="number"
+                                          min="0"
                                           placeholder="Jumlah total bangunan/unit rumah terbangun"
                                           value={data.jumlahBangunan}
                                           onChange={(e) => updateSubSLSData(index, "jumlahBangunan", e.target.value)}
+                                        />
+                                      </div>
+                                      <div className="space-y-2">
+                                        <Label>Catatan</Label>
+                                        <Input
+                                          placeholder="Catatan tambahan (opsional)"
+                                          value={data.catatan}
+                                          onChange={(e) => updateSubSLSData(index, "catatan", e.target.value)}
                                         />
                                       </div>
                                     </>

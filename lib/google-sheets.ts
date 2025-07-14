@@ -19,6 +19,7 @@ interface FormSubmissionData {
     jumlahPerumahan: string
     namaPerumahan: string
     jumlahBangunan: string
+    catatan: string // Optional field for additional notes
   }>
 }
 
@@ -64,6 +65,7 @@ export async function submitToGoogleSheets(data: FormSubmissionData) {
         subSLS.jumlahPerumahan,
         subSLS.namaPerumahan,
         subSLS.jumlahBangunan,
+        subSLS.catatan || "", // Optional field for additional notes
       ]
     })
 

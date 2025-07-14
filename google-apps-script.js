@@ -21,7 +21,7 @@ function doPost(e) {
     if (!subSLSSheet) {
       subSLSSheet = ss.insertSheet("Detail Sub SLS")
       // Header untuk sheet Sub SLS - ID SLS sebagai foreign key
-      subSLSSheet.getRange(1, 1, 1, 13).setValues([
+      subSLSSheet.getRange(1, 1, 1, 15).setValues([
         [
           "ID SLS", // Foreign Key
           "Sub SLS ID", // Unique identifier untuk setiap sub SLS
@@ -32,10 +32,12 @@ function doPost(e) {
           "Jumlah KK",
           "Ada Pasar",
           "Nama Pasar",
+          "Jumlah Muatan Pasar",
           "Ada Perumahan",
           "Jumlah Perumahan",
           "Nama Perumahan",
           "Jumlah Bangunan",
+          "Catatan", // Tambahan untuk catatan
         ],
       ])
     }
